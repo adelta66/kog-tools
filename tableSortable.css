@@ -1,0 +1,13 @@
+#pills-finished th{
+    user-select: none;
+}
+#pills-finished th:hover{
+    filter:brightness(200%)
+}
+.th-sort-asc:after {
+    content: "\25b4";
+}
+
+.th-sort-desc:after {
+    content: "\25be";
+}

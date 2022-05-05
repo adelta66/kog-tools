@@ -1,0 +1,5579 @@
+{
+    "points": {
+        "Rank": 1511,
+        "Name": "adelta",
+        "TPoints": 693,
+        "PvPpoints": 966.04,
+        "Points": 625,
+        "Seasonpoints": 68,
+        "RewardIndex": 301,
+        "Powers": ""
+    },
+    "finishedMaps": [
+        {
+            "Map": "CandyLand",
+            "Time": 3401.3,
+            "Timestamp": "2021-05-17 10:31:25"
+        },
+        {
+            "Map": "Aip-Gores",
+            "Time": 962.92,
+            "Timestamp": "2021-05-19 08:58:01"
+        },
+        {
+            "Map": "Goldie",
+            "Time": 796.44,
+            "Timestamp": "2021-05-19 10:12:39"
+        },
+        {
+            "Map": "Q-Easy1",
+            "Time": 1193.56,
+            "Timestamp": "2021-05-19 14:10:39"
+        },
+        {
+            "Map": "MikuEasy",
+            "Time": 794.74,
+            "Timestamp": "2021-05-19 14:37:52"
+        },
+        {
+            "Map": "Q-Easy2",
+            "Time": 512.42,
+            "Timestamp": "2021-05-20 10:45:05"
+        },
+        {
+            "Map": "Icebreaker",
+            "Time": 1061.96,
+            "Timestamp": "2021-05-21 16:43:18"
+        },
+        {
+            "Map": "ShyzoEZ-1",
+            "Time": 502.58,
+            "Timestamp": "2021-05-21 17:06:31"
+        },
+        {
+            "Map": "Goldie",
+            "Time": 173.1,
+            "Timestamp": "2021-05-22 18:00:00"
+        },
+        {
+            "Map": "VampEz1",
+            "Time": 318.72,
+            "Timestamp": "2021-05-22 18:06:06"
+        },
+        {
+            "Map": "Aip-Gores",
+            "Time": 794.74,
+            "Timestamp": "2021-05-22 18:56:15"
+        },
+        {
+            "Map": "Spitfire",
+            "Time": 1522.48,
+            "Timestamp": "2021-05-23 18:21:45"
+        },
+        {
+            "Map": "MikuEasy",
+            "Time": 519,
+            "Timestamp": "2021-05-23 18:53:05"
+        },
+        {
+            "Map": "Goldie",
+            "Time": 151.94,
+            "Timestamp": "2021-05-23 19:22:33"
+        },
+        {
+            "Map": "Icebreaker",
+            "Time": 192.04,
+            "Timestamp": "2021-05-23 20:39:48"
+        },
+        {
+            "Map": "CandyLand",
+            "Time": 237.66,
+            "Timestamp": "2021-05-25 10:01:11"
+        },
+        {
+            "Map": "Planetux",
+            "Time": 526.22,
+            "Timestamp": "2021-05-29 19:08:40"
+        },
+        {
+            "Map": "ShyzoEZ-1",
+            "Time": 205.32,
+            "Timestamp": "2021-05-30 19:35:55"
+        },
+        {
+            "Map": "ShyzoEZ-1",
+            "Time": 176.88,
+            "Timestamp": "2021-05-30 19:43:28"
+        },
+        {
+            "Map": "Icebreaker",
+            "Time": 125.28,
+            "Timestamp": "2021-05-31 13:00:39"
+        },
+        {
+            "Map": "VampEz1",
+            "Time": 192.82,
+            "Timestamp": "2021-05-31 19:16:15"
+        },
+        {
+            "Map": "Icebreaker",
+            "Time": 154.8,
+            "Timestamp": "2021-06-01 09:38:36"
+        },
+        {
+            "Map": "Aip-Gores",
+            "Time": 332,
+            "Timestamp": "2021-06-01 17:57:37"
+        },
+        {
+            "Map": "Goldie",
+            "Time": 133.36,
+            "Timestamp": "2021-06-01 18:38:26"
+        },
+        {
+            "Map": "Aip-Gores",
+            "Time": 1421.52,
+            "Timestamp": "2021-06-02 09:45:04"
+        },
+        {
+            "Map": "Aip-Gores",
+            "Time": 515.74,
+            "Timestamp": "2021-06-02 09:57:09"
+        },
+        {
+            "Map": "Q-Easy1",
+            "Time": 510.42,
+            "Timestamp": "2021-06-07 06:59:23"
+        },
+        {
+            "Map": "HeyTux4",
+            "Time": 692.26,
+            "Timestamp": "2021-06-07 07:35:25"
+        },
+        {
+            "Map": "Nighthawk",
+            "Time": 783.28,
+            "Timestamp": "2021-06-07 08:00:36"
+        },
+        {
+            "Map": "Encore",
+            "Time": 1818.66,
+            "Timestamp": "2021-06-07 08:34:05"
+        },
+        {
+            "Map": "FlipLipp5",
+            "Time": 1035.98,
+            "Timestamp": "2021-06-07 08:52:34"
+        },
+        {
+            "Map": "Aip-Gores",
+            "Time": 902.8,
+            "Timestamp": "2021-06-07 09:34:48"
+        },
+        {
+            "Map": "Q-Easy1",
+            "Time": 450.68,
+            "Timestamp": "2021-06-07 17:47:02"
+        },
+        {
+            "Map": "Aip-Gores",
+            "Time": 1671.24,
+            "Timestamp": "2021-06-08 08:03:46"
+        },
+        {
+            "Map": "Q-Easy2",
+            "Time": 362.2,
+            "Timestamp": "2021-06-08 11:57:01"
+        },
+        {
+            "Map": "Planetux",
+            "Time": 306.96,
+            "Timestamp": "2021-06-08 12:02:33"
+        },
+        {
+            "Map": "fik4SubLime",
+            "Time": 421.96,
+            "Timestamp": "2021-06-08 12:10:21"
+        },
+        {
+            "Map": "Sandy_Cave",
+            "Time": 444.54,
+            "Timestamp": "2021-06-08 12:21:29"
+        },
+        {
+            "Map": "Corrupted_Easy",
+            "Time": 566.58,
+            "Timestamp": "2021-06-08 12:34:39"
+        },
+        {
+            "Map": "Tux4Rookies",
+            "Time": 492.58,
+            "Timestamp": "2021-06-08 12:44:56"
+        },
+        {
+            "Map": "QuickOne",
+            "Time": 602.62,
+            "Timestamp": "2021-06-08 12:55:46"
+        },
+        {
+            "Map": "fik4SubLime",
+            "Time": 256.06,
+            "Timestamp": "2021-06-08 17:59:31"
+        },
+        {
+            "Map": "Goldie",
+            "Time": 299.04,
+            "Timestamp": "2021-06-08 18:51:05"
+        },
+        {
+            "Map": "MikuEasy",
+            "Time": 296.12,
+            "Timestamp": "2021-06-08 19:34:29"
+        },
+        {
+            "Map": "Aip-Gores",
+            "Time": 1272.76,
+            "Timestamp": "2021-06-09 07:51:25"
+        },
+        {
+            "Map": "ShyzoEZ-1",
+            "Time": 478.92,
+            "Timestamp": "2021-06-09 09:42:01"
+        },
+        {
+            "Map": "VampEz1",
+            "Time": 786.5,
+            "Timestamp": "2021-06-09 10:05:58"
+        },
+        {
+            "Map": "Goldie",
+            "Time": 133.86,
+            "Timestamp": "2021-06-09 10:10:37"
+        },
+        {
+            "Map": "Goldie",
+            "Time": 297.48,
+            "Timestamp": "2021-06-09 10:16:17"
+        },
+        {
+            "Map": "Goldie",
+            "Time": 108.14,
+            "Timestamp": "2021-06-09 10:38:42"
+        },
+        {
+            "Map": "fik4SubLime",
+            "Time": 380.46,
+            "Timestamp": "2021-06-09 11:01:32"
+        },
+        {
+            "Map": "CandyLand",
+            "Time": 170.5,
+            "Timestamp": "2021-06-09 13:21:28"
+        },
+        {
+            "Map": "Aip-Gores",
+            "Time": 1055.7,
+            "Timestamp": "2021-06-09 20:33:12"
+        },
+        {
+            "Map": "Icebreaker",
+            "Time": 154.24,
+            "Timestamp": "2021-06-10 13:52:32"
+        },
+        {
+            "Map": "Goldie",
+            "Time": 111.16,
+            "Timestamp": "2021-06-10 13:59:29"
+        },
+        {
+            "Map": "fik4Isi",
+            "Time": 148,
+            "Timestamp": "2021-06-10 14:08:09"
+        },
+        {
+            "Map": "ShyzoEZ-1",
+            "Time": 174.72,
+            "Timestamp": "2021-06-10 15:01:29"
+        },
+        {
+            "Map": "Aip-Gores",
+            "Time": 281.56,
+            "Timestamp": "2021-06-11 08:09:10"
+        },
+        {
+            "Map": "Aip-Gores",
+            "Time": 491.58,
+            "Timestamp": "2021-06-11 08:23:27"
+        },
+        {
+            "Map": "Aip-Gores",
+            "Time": 1495.54,
+            "Timestamp": "2021-06-11 11:44:27"
+        },
+        {
+            "Map": "ChillerDragores25",
+            "Time": 790.22,
+            "Timestamp": "2021-06-11 14:14:15"
+        },
+        {
+            "Map": "Nighthawk",
+            "Time": 430.28,
+            "Timestamp": "2021-06-11 17:06:25"
+        },
+        {
+            "Map": "Dandelinux",
+            "Time": 96.02,
+            "Timestamp": "2021-06-11 17:15:55"
+        },
+        {
+            "Map": "Dandelinux",
+            "Time": 123,
+            "Timestamp": "2021-06-11 19:45:18"
+        },
+        {
+            "Map": "Planetux",
+            "Time": 378.72,
+            "Timestamp": "2021-06-12 15:03:30"
+        },
+        {
+            "Map": "Dandelinux",
+            "Time": 230.68,
+            "Timestamp": "2021-06-12 17:49:22"
+        },
+        {
+            "Map": "Goldie",
+            "Time": 297.86,
+            "Timestamp": "2021-06-12 18:09:57"
+        },
+        {
+            "Map": "MikuEasy",
+            "Time": 1012.44,
+            "Timestamp": "2021-06-12 18:31:49"
+        },
+        {
+            "Map": "fik4SubLime",
+            "Time": 695.42,
+            "Timestamp": "2021-06-12 19:50:05"
+        },
+        {
+            "Map": "Spitfire",
+            "Time": 343.1,
+            "Timestamp": "2021-06-13 18:04:24"
+        },
+        {
+            "Map": "Aip-Gores",
+            "Time": 408.72,
+            "Timestamp": "2021-06-16 11:28:07"
+        },
+        {
+            "Map": "Goldie",
+            "Time": 167.68,
+            "Timestamp": "2021-06-17 07:51:22"
+        },
+        {
+            "Map": "ChillerDragores25",
+            "Time": 841.82,
+            "Timestamp": "2021-06-17 08:10:28"
+        },
+        {
+            "Map": "Knight1e",
+            "Time": 411.64,
+            "Timestamp": "2021-06-17 14:41:29"
+        },
+        {
+            "Map": "VampEz1",
+            "Time": 111.82,
+            "Timestamp": "2021-06-17 18:55:34"
+        },
+        {
+            "Map": "Kero4QshaR",
+            "Time": 1188.8,
+            "Timestamp": "2021-06-18 09:08:12"
+        },
+        {
+            "Map": "Dandelinux",
+            "Time": 167.54,
+            "Timestamp": "2021-06-19 12:34:24"
+        },
+        {
+            "Map": "Dandelinux",
+            "Time": 121.3,
+            "Timestamp": "2021-06-19 12:43:27"
+        },
+        {
+            "Map": "Nighthawk",
+            "Time": 283,
+            "Timestamp": "2021-06-21 16:34:54"
+        },
+        {
+            "Map": "ShyzoEZ-1",
+            "Time": 508.1,
+            "Timestamp": "2021-06-22 10:49:23"
+        },
+        {
+            "Map": "Q-Easy2",
+            "Time": 677.46,
+            "Timestamp": "2021-06-22 11:07:24"
+        },
+        {
+            "Map": "Q-Easy1",
+            "Time": 405.74,
+            "Timestamp": "2021-06-22 20:57:34"
+        },
+        {
+            "Map": "fik4Isi",
+            "Time": 108.28,
+            "Timestamp": "2021-06-22 21:25:08"
+        },
+        {
+            "Map": "ChillerDragores25",
+            "Time": 599.16,
+            "Timestamp": "2021-06-24 13:48:34"
+        },
+        {
+            "Map": "ChillerDragores25",
+            "Time": 435.1,
+            "Timestamp": "2021-06-24 14:05:29"
+        },
+        {
+            "Map": "fik4Isi",
+            "Time": 103,
+            "Timestamp": "2021-06-25 10:52:27"
+        },
+        {
+            "Map": "Aip-Gores",
+            "Time": 942.5,
+            "Timestamp": "2021-06-26 15:44:05"
+        },
+        {
+            "Map": "Planetux",
+            "Time": 332.3,
+            "Timestamp": "2021-06-26 19:48:27"
+        },
+        {
+            "Map": "Aip-Gores",
+            "Time": 842.42,
+            "Timestamp": "2021-06-27 13:36:36"
+        },
+        {
+            "Map": "Goldie",
+            "Time": 96.54,
+            "Timestamp": "2021-06-27 14:17:31"
+        },
+        {
+            "Map": "Q-Aip-Gores",
+            "Time": 908.84,
+            "Timestamp": "2021-06-27 17:17:15"
+        },
+        {
+            "Map": "Aip-Gores",
+            "Time": 212.24,
+            "Timestamp": "2021-06-27 17:24:08"
+        },
+        {
+            "Map": "Aip-Gores",
+            "Time": 781.22,
+            "Timestamp": "2021-06-28 10:57:41"
+        },
+        {
+            "Map": "Aip-Gores",
+            "Time": 1461.62,
+            "Timestamp": "2021-06-29 09:54:16"
+        },
+        {
+            "Map": "Aip-Gores",
+            "Time": 1102.54,
+            "Timestamp": "2021-06-29 10:22:24"
+        },
+        {
+            "Map": "Aip-Gores",
+            "Time": 475.72,
+            "Timestamp": "2021-07-01 11:53:18"
+        },
+        {
+            "Map": "fik4Isi",
+            "Time": 313.6,
+            "Timestamp": "2021-07-01 16:58:35"
+        },
+        {
+            "Map": "Dandelinux",
+            "Time": 104.36,
+            "Timestamp": "2021-07-02 13:33:23"
+        },
+        {
+            "Map": "Corrupted_Easy",
+            "Time": 310,
+            "Timestamp": "2021-07-02 18:54:12"
+        },
+        {
+            "Map": "QuickOne",
+            "Time": 392.88,
+            "Timestamp": "2021-07-02 19:06:11"
+        },
+        {
+            "Map": "Q-Easy1",
+            "Time": 649.34,
+            "Timestamp": "2021-07-02 19:56:30"
+        },
+        {
+            "Map": "Dandelinux",
+            "Time": 518.74,
+            "Timestamp": "2021-07-04 13:24:08"
+        },
+        {
+            "Map": "Planetux",
+            "Time": 766.26,
+            "Timestamp": "2021-07-04 18:30:11"
+        },
+        {
+            "Map": "Planetux",
+            "Time": 268.82,
+            "Timestamp": "2021-07-05 08:58:27"
+        },
+        {
+            "Map": "Aip-Gores",
+            "Time": 305.92,
+            "Timestamp": "2021-07-29 09:37:32"
+        },
+        {
+            "Map": "Dandelinux",
+            "Time": 99.06,
+            "Timestamp": "2021-07-29 21:01:50"
+        },
+        {
+            "Map": "Nighthawk",
+            "Time": 721.36,
+            "Timestamp": "2021-07-31 12:27:36"
+        },
+        {
+            "Map": "Aip-Gores",
+            "Time": 832.6,
+            "Timestamp": "2021-07-31 17:26:19"
+        },
+        {
+            "Map": "Dandelinux",
+            "Time": 82.98,
+            "Timestamp": "2021-07-31 20:45:58"
+        },
+        {
+            "Map": "BLACK_SMOKE",
+            "Time": 377.82,
+            "Timestamp": "2021-08-02 10:39:07"
+        },
+        {
+            "Map": "MikuEasy",
+            "Time": 511.84,
+            "Timestamp": "2021-08-09 12:18:19"
+        },
+        {
+            "Map": "fik4Isi",
+            "Time": 178.96,
+            "Timestamp": "2021-08-11 08:51:07"
+        },
+        {
+            "Map": "Aip-Gores",
+            "Time": 1255.76,
+            "Timestamp": "2021-08-13 21:30:59"
+        },
+        {
+            "Map": "Aip-Gores",
+            "Time": 1256.12,
+            "Timestamp": "2021-08-14 10:13:12"
+        },
+        {
+            "Map": "Planetux",
+            "Time": 582.48,
+            "Timestamp": "2021-08-15 18:42:12"
+        },
+        {
+            "Map": "Planetux",
+            "Time": 672.02,
+            "Timestamp": "2021-08-15 18:58:36"
+        },
+        {
+            "Map": "Terran",
+            "Time": 136.94,
+            "Timestamp": "2021-08-15 21:57:38"
+        },
+        {
+            "Map": "Terran",
+            "Time": 431.36,
+            "Timestamp": "2021-08-16 11:16:49"
+        },
+        {
+            "Map": "Dandelinux",
+            "Time": 252.24,
+            "Timestamp": "2021-08-16 11:29:02"
+        },
+        {
+            "Map": "Q-Easy2",
+            "Time": 402.98,
+            "Timestamp": "2021-08-16 13:35:21"
+        },
+        {
+            "Map": "Planetux",
+            "Time": 436.74,
+            "Timestamp": "2021-08-16 14:04:40"
+        },
+        {
+            "Map": "Nighthawk",
+            "Time": 778.54,
+            "Timestamp": "2021-08-16 14:42:14"
+        },
+        {
+            "Map": "ShyzoEZ-1",
+            "Time": 234.88,
+            "Timestamp": "2021-08-16 20:00:46"
+        },
+        {
+            "Map": "MikuEasy",
+            "Time": 293.4,
+            "Timestamp": "2021-08-16 20:12:23"
+        },
+        {
+            "Map": "Aip-Gores",
+            "Time": 812.16,
+            "Timestamp": "2021-08-18 11:07:56"
+        },
+        {
+            "Map": "Goldie",
+            "Time": 142.74,
+            "Timestamp": "2021-08-18 11:36:59"
+        },
+        {
+            "Map": "ChillerDragores25",
+            "Time": 950.32,
+            "Timestamp": "2021-08-18 12:01:29"
+        },
+        {
+            "Map": "Icebreaker",
+            "Time": 153.52,
+            "Timestamp": "2021-08-19 11:19:27"
+        },
+        {
+            "Map": "Icebreaker",
+            "Time": 91.34,
+            "Timestamp": "2021-08-19 11:22:29"
+        },
+        {
+            "Map": "Dandelinux",
+            "Time": 137.56,
+            "Timestamp": "2021-08-19 15:29:31"
+        },
+        {
+            "Map": "Dandelinux",
+            "Time": 143.78,
+            "Timestamp": "2021-08-20 18:56:19"
+        },
+        {
+            "Map": "Dandelinux",
+            "Time": 478.28,
+            "Timestamp": "2021-08-20 19:09:04"
+        },
+        {
+            "Map": "Aip-Gores",
+            "Time": 1147.5,
+            "Timestamp": "2021-08-21 10:43:37"
+        },
+        {
+            "Map": "Dandelinux",
+            "Time": 127.14,
+            "Timestamp": "2021-08-22 10:17:25"
+        },
+        {
+            "Map": "Icebreaker",
+            "Time": 807.26,
+            "Timestamp": "2021-08-23 08:26:21"
+        },
+        {
+            "Map": "Spitfire",
+            "Time": 781.08,
+            "Timestamp": "2021-08-23 12:29:23"
+        },
+        {
+            "Map": "Terran",
+            "Time": 242.62,
+            "Timestamp": "2021-08-23 18:37:22"
+        },
+        {
+            "Map": "Planetux",
+            "Time": 630.66,
+            "Timestamp": "2021-08-23 18:56:01"
+        },
+        {
+            "Map": "Spitfire",
+            "Time": 1101.68,
+            "Timestamp": "2021-08-24 12:18:57"
+        },
+        {
+            "Map": "Aip-Gores",
+            "Time": 446.3,
+            "Timestamp": "2021-08-24 19:38:22"
+        },
+        {
+            "Map": "MikuEasy",
+            "Time": 277.06,
+            "Timestamp": "2021-08-25 09:34:46"
+        },
+        {
+            "Map": "MikuEasy",
+            "Time": 856,
+            "Timestamp": "2021-08-26 09:03:23"
+        },
+        {
+            "Map": "Kero-Gores7",
+            "Time": 1022.22,
+            "Timestamp": "2021-08-26 09:41:26"
+        },
+        {
+            "Map": "Aip-Gores",
+            "Time": 902.74,
+            "Timestamp": "2021-08-27 07:14:53"
+        },
+        {
+            "Map": "Aip-Gores",
+            "Time": 676.04,
+            "Timestamp": "2021-08-27 07:35:22"
+        },
+        {
+            "Map": "Terran",
+            "Time": 352.8,
+            "Timestamp": "2021-08-27 18:09:29"
+        },
+        {
+            "Map": "Kero-Gores7",
+            "Time": 540.3,
+            "Timestamp": "2021-08-27 18:56:06"
+        },
+        {
+            "Map": "Aip-Gores",
+            "Time": 883.28,
+            "Timestamp": "2021-08-28 07:26:30"
+        },
+        {
+            "Map": "MikuEasy",
+            "Time": 512.46,
+            "Timestamp": "2021-08-28 18:18:51"
+        },
+        {
+            "Map": "ChillerDragores25",
+            "Time": 1781.06,
+            "Timestamp": "2021-08-28 19:21:26"
+        },
+        {
+            "Map": "Nighthawk",
+            "Time": 1537.98,
+            "Timestamp": "2021-08-29 19:29:58"
+        },
+        {
+            "Map": "Aip-Gores",
+            "Time": 214.22,
+            "Timestamp": "2021-09-02 09:25:34"
+        },
+        {
+            "Map": "Aip-Gores",
+            "Time": 279.76,
+            "Timestamp": "2021-09-02 11:44:07"
+        },
+        {
+            "Map": "Dandelinux",
+            "Time": 390.06,
+            "Timestamp": "2021-09-02 12:08:48"
+        },
+        {
+            "Map": "Icebreaker",
+            "Time": 98.66,
+            "Timestamp": "2021-09-02 13:26:21"
+        },
+        {
+            "Map": "Aip-Gores",
+            "Time": 1948.22,
+            "Timestamp": "2021-09-03 08:16:50"
+        },
+        {
+            "Map": "Aip-Gores",
+            "Time": 1907.62,
+            "Timestamp": "2021-09-03 11:22:37"
+        },
+        {
+            "Map": "Kero-Gores7",
+            "Time": 1120.32,
+            "Timestamp": "2021-09-03 13:27:58"
+        },
+        {
+            "Map": "QuickOne",
+            "Time": 334.02,
+            "Timestamp": "2021-09-03 18:46:08"
+        },
+        {
+            "Map": "Aip-Gores",
+            "Time": 508.94,
+            "Timestamp": "2021-09-04 07:24:53"
+        },
+        {
+            "Map": "Icebreaker",
+            "Time": 390,
+            "Timestamp": "2021-09-04 18:27:55"
+        },
+        {
+            "Map": "Icebreaker",
+            "Time": 114.6,
+            "Timestamp": "2021-09-04 18:34:33"
+        },
+        {
+            "Map": "Spitfire",
+            "Time": 719.46,
+            "Timestamp": "2021-09-04 19:23:42"
+        },
+        {
+            "Map": "Afternight",
+            "Time": 293.18,
+            "Timestamp": "2021-09-05 18:40:39"
+        },
+        {
+            "Map": "Aip-Gores",
+            "Time": 1574.54,
+            "Timestamp": "2021-09-06 07:45:36"
+        },
+        {
+            "Map": "Aip-Gores",
+            "Time": 369.94,
+            "Timestamp": "2021-09-10 12:13:38"
+        },
+        {
+            "Map": "Aip-Gores",
+            "Time": 565.82,
+            "Timestamp": "2021-09-10 17:12:45"
+        },
+        {
+            "Map": "Nighthawk",
+            "Time": 250.96,
+            "Timestamp": "2021-09-11 13:14:57"
+        },
+        {
+            "Map": "Nighthawk",
+            "Time": 549.28,
+            "Timestamp": "2021-09-11 13:24:52"
+        },
+        {
+            "Map": "Dandelinux",
+            "Time": 75.78,
+            "Timestamp": "2021-09-11 17:29:46"
+        },
+        {
+            "Map": "Dandelinux",
+            "Time": 696.24,
+            "Timestamp": "2021-09-11 18:14:53"
+        },
+        {
+            "Map": "Dandelinux",
+            "Time": 292.22,
+            "Timestamp": "2021-09-11 18:26:30"
+        },
+        {
+            "Map": "Dandelinux",
+            "Time": 253.7,
+            "Timestamp": "2021-09-11 18:30:48"
+        },
+        {
+            "Map": "ChillerDragores4",
+            "Time": 348.16,
+            "Timestamp": "2021-09-11 18:47:05"
+        },
+        {
+            "Map": "Dandelinux",
+            "Time": 203.62,
+            "Timestamp": "2021-09-12 19:11:19"
+        },
+        {
+            "Map": "ShyzoEZ-1",
+            "Time": 220.92,
+            "Timestamp": "2021-09-13 19:36:55"
+        },
+        {
+            "Map": "Tux4Rookies",
+            "Time": 1048.42,
+            "Timestamp": "2021-09-13 20:08:03"
+        },
+        {
+            "Map": "Q-Easy2",
+            "Time": 358,
+            "Timestamp": "2021-09-16 07:23:38"
+        },
+        {
+            "Map": "Q-Easy2",
+            "Time": 201.4,
+            "Timestamp": "2021-09-16 16:29:19"
+        },
+        {
+            "Map": "Q-Easy1",
+            "Time": 233.92,
+            "Timestamp": "2021-09-16 16:36:06"
+        },
+        {
+            "Map": "Aip-Gores",
+            "Time": 529.66,
+            "Timestamp": "2021-09-17 09:51:05"
+        },
+        {
+            "Map": "Goldie",
+            "Time": 86.86,
+            "Timestamp": "2021-09-17 09:53:37"
+        },
+        {
+            "Map": "Goldie",
+            "Time": 133.2,
+            "Timestamp": "2021-09-17 09:57:10"
+        },
+        {
+            "Map": "FlipLipp4",
+            "Time": 1359.48,
+            "Timestamp": "2021-09-17 13:07:32"
+        },
+        {
+            "Map": "fik4Isi",
+            "Time": 326.02,
+            "Timestamp": "2021-09-19 08:20:13"
+        },
+        {
+            "Map": "CandyLand",
+            "Time": 104.66,
+            "Timestamp": "2021-09-19 14:13:42"
+        },
+        {
+            "Map": "Nighthawk",
+            "Time": 293.58,
+            "Timestamp": "2021-09-19 14:25:04"
+        },
+        {
+            "Map": "Aip-Gores",
+            "Time": 782.08,
+            "Timestamp": "2021-09-20 11:58:03"
+        },
+        {
+            "Map": "Icebreaker",
+            "Time": 97.28,
+            "Timestamp": "2021-09-20 14:58:09"
+        },
+        {
+            "Map": "VampEz1",
+            "Time": 92.7,
+            "Timestamp": "2021-09-20 15:26:12"
+        },
+        {
+            "Map": "ShyzoEZ-1",
+            "Time": 130.38,
+            "Timestamp": "2021-09-20 15:29:57"
+        },
+        {
+            "Map": "Aip-Gores",
+            "Time": 999.78,
+            "Timestamp": "2021-09-21 09:58:30"
+        },
+        {
+            "Map": "Panik4Shero",
+            "Time": 335.48,
+            "Timestamp": "2021-09-21 12:57:59"
+        },
+        {
+            "Map": "Kero4cooper",
+            "Time": 574.98,
+            "Timestamp": "2021-09-22 08:19:37"
+        },
+        {
+            "Map": "Icebreaker",
+            "Time": 285.06,
+            "Timestamp": "2021-09-22 17:27:15"
+        },
+        {
+            "Map": "Planetux",
+            "Time": 392.26,
+            "Timestamp": "2021-09-22 17:39:44"
+        },
+        {
+            "Map": "Aip-Gores",
+            "Time": 576.44,
+            "Timestamp": "2021-09-23 08:53:18"
+        },
+        {
+            "Map": "Dandelinux",
+            "Time": 118.44,
+            "Timestamp": "2021-09-23 09:01:38"
+        },
+        {
+            "Map": "Goldie",
+            "Time": 92.04,
+            "Timestamp": "2021-09-23 09:05:42"
+        },
+        {
+            "Map": "Kero-Gores1",
+            "Time": 507.8,
+            "Timestamp": "2021-09-23 17:41:43"
+        },
+        {
+            "Map": "NealsonSpeedy",
+            "Time": 476.64,
+            "Timestamp": "2021-09-24 10:48:19"
+        },
+        {
+            "Map": "Q-Aip-Gores8",
+            "Time": 399.7,
+            "Timestamp": "2021-09-24 18:15:56"
+        },
+        {
+            "Map": "Wintux",
+            "Time": 536.96,
+            "Timestamp": "2021-09-24 18:32:10"
+        },
+        {
+            "Map": "QuickOne",
+            "Time": 263.84,
+            "Timestamp": "2021-09-25 11:31:30"
+        },
+        {
+            "Map": "VampEz1",
+            "Time": 94,
+            "Timestamp": "2021-09-26 13:58:48"
+        },
+        {
+            "Map": "Icebreaker",
+            "Time": 94.68,
+            "Timestamp": "2021-09-26 14:45:24"
+        },
+        {
+            "Map": "Icebreaker",
+            "Time": 319.6,
+            "Timestamp": "2021-09-26 15:08:41"
+        },
+        {
+            "Map": "fik4SubLime",
+            "Time": 727.16,
+            "Timestamp": "2021-09-26 15:25:10"
+        },
+        {
+            "Map": "QuickOne",
+            "Time": 453.96,
+            "Timestamp": "2021-09-27 13:37:29"
+        },
+        {
+            "Map": "Nighthawk",
+            "Time": 294.38,
+            "Timestamp": "2021-09-27 17:47:54"
+        },
+        {
+            "Map": "Aip-Gores",
+            "Time": 1360.46,
+            "Timestamp": "2021-09-30 10:50:12"
+        },
+        {
+            "Map": "Dandelinux",
+            "Time": 110.84,
+            "Timestamp": "2021-09-30 19:06:46"
+        },
+        {
+            "Map": "Dandelinux",
+            "Time": 122.54,
+            "Timestamp": "2021-09-30 19:13:59"
+        },
+        {
+            "Map": "MyStery",
+            "Time": 316.02,
+            "Timestamp": "2021-09-30 19:29:39"
+        },
+        {
+            "Map": "Aip-Gores",
+            "Time": 819.96,
+            "Timestamp": "2021-10-01 07:25:27"
+        },
+        {
+            "Map": "Dandelinux",
+            "Time": 101.18,
+            "Timestamp": "2021-10-01 13:05:15"
+        },
+        {
+            "Map": "HeyTux4",
+            "Time": 836.1,
+            "Timestamp": "2021-10-01 13:25:17"
+        },
+        {
+            "Map": "BLACK_SMOKE",
+            "Time": 196.3,
+            "Timestamp": "2021-10-01 18:16:46"
+        },
+        {
+            "Map": "Sandy_Cave",
+            "Time": 273.4,
+            "Timestamp": "2021-10-01 18:43:27"
+        },
+        {
+            "Map": "Tux4Rookies",
+            "Time": 263.8,
+            "Timestamp": "2021-10-01 19:01:31"
+        },
+        {
+            "Map": "Aip-Gores",
+            "Time": 440.96,
+            "Timestamp": "2021-10-02 15:16:26"
+        },
+        {
+            "Map": "Icebreaker",
+            "Time": 221.98,
+            "Timestamp": "2021-10-03 10:42:19"
+        },
+        {
+            "Map": "Icebreaker",
+            "Time": 241.08,
+            "Timestamp": "2021-10-03 10:56:32"
+        },
+        {
+            "Map": "Dandelinux",
+            "Time": 365.28,
+            "Timestamp": "2021-10-03 11:03:11"
+        },
+        {
+            "Map": "Goldie",
+            "Time": 402.94,
+            "Timestamp": "2021-10-03 11:10:50"
+        },
+        {
+            "Map": "FlipLipp4",
+            "Time": 663.92,
+            "Timestamp": "2021-10-03 17:37:21"
+        },
+        {
+            "Map": "HeyTux4",
+            "Time": 272.26,
+            "Timestamp": "2021-10-05 18:31:23"
+        },
+        {
+            "Map": "Dandelinux",
+            "Time": 113.42,
+            "Timestamp": "2021-10-07 18:17:13"
+        },
+        {
+            "Map": "Goldie",
+            "Time": 408.04,
+            "Timestamp": "2021-10-07 18:32:04"
+        },
+        {
+            "Map": "ShyzoEZ-1",
+            "Time": 145.68,
+            "Timestamp": "2021-10-08 10:47:33"
+        },
+        {
+            "Map": "ShyzoEZ-1",
+            "Time": 223.18,
+            "Timestamp": "2021-10-08 10:54:34"
+        },
+        {
+            "Map": "Aip-Gores",
+            "Time": 1506.08,
+            "Timestamp": "2021-10-09 07:43:58"
+        },
+        {
+            "Map": "Q-Aip-Gores",
+            "Time": 1118.4,
+            "Timestamp": "2021-10-09 09:28:22"
+        },
+        {
+            "Map": "Goldie",
+            "Time": 116.96,
+            "Timestamp": "2021-10-10 09:59:25"
+        },
+        {
+            "Map": "Aip-Gores",
+            "Time": 553.46,
+            "Timestamp": "2021-10-10 16:11:21"
+        },
+        {
+            "Map": "BLACK_SMOKE",
+            "Time": 313.4,
+            "Timestamp": "2021-10-13 17:28:49"
+        },
+        {
+            "Map": "Dandelinux",
+            "Time": 73.14,
+            "Timestamp": "2021-10-13 17:31:16"
+        },
+        {
+            "Map": "Dandelinux",
+            "Time": 149.28,
+            "Timestamp": "2021-10-15 12:23:15"
+        },
+        {
+            "Map": "Goldie",
+            "Time": 158.2,
+            "Timestamp": "2021-10-15 12:48:46"
+        },
+        {
+            "Map": "MikuEasy",
+            "Time": 291,
+            "Timestamp": "2021-10-15 19:46:50"
+        },
+        {
+            "Map": "CandyLand",
+            "Time": 85.62,
+            "Timestamp": "2021-10-15 20:42:54"
+        },
+        {
+            "Map": "Aip-Gores",
+            "Time": 418.08,
+            "Timestamp": "2021-10-17 10:04:56"
+        },
+        {
+            "Map": "CandyLand",
+            "Time": 208.74,
+            "Timestamp": "2021-10-17 12:37:08"
+        },
+        {
+            "Map": "Goldie",
+            "Time": 238.68,
+            "Timestamp": "2021-10-17 12:44:27"
+        },
+        {
+            "Map": "Icebreaker",
+            "Time": 151.7,
+            "Timestamp": "2021-10-18 13:58:57"
+        },
+        {
+            "Map": "Planetux",
+            "Time": 386.06,
+            "Timestamp": "2021-10-18 14:45:46"
+        },
+        {
+            "Map": "fik4Isi",
+            "Time": 166.94,
+            "Timestamp": "2021-10-18 19:00:48"
+        },
+        {
+            "Map": "Sandy_Cave",
+            "Time": 989.06,
+            "Timestamp": "2021-10-20 17:47:41"
+        },
+        {
+            "Map": "HeyTux5",
+            "Time": 955.66,
+            "Timestamp": "2021-10-20 18:27:21"
+        },
+        {
+            "Map": "CandyLand",
+            "Time": 109.26,
+            "Timestamp": "2021-10-21 10:08:40"
+        },
+        {
+            "Map": "Terran",
+            "Time": 513.68,
+            "Timestamp": "2021-10-21 10:49:49"
+        },
+        {
+            "Map": "ShyzoEZ-1",
+            "Time": 812.06,
+            "Timestamp": "2021-10-22 11:58:51"
+        },
+        {
+            "Map": "Dandelinux",
+            "Time": 328.62,
+            "Timestamp": "2021-10-22 12:07:12"
+        },
+        {
+            "Map": "Corrupted_Easy",
+            "Time": 684.2,
+            "Timestamp": "2021-10-22 12:31:57"
+        },
+        {
+            "Map": "Dandelinux",
+            "Time": 73.84,
+            "Timestamp": "2021-10-23 09:52:38"
+        },
+        {
+            "Map": "Dandelinux",
+            "Time": 397.82,
+            "Timestamp": "2021-10-23 16:40:59"
+        },
+        {
+            "Map": "fik4SubLime",
+            "Time": 667.58,
+            "Timestamp": "2021-10-23 18:41:10"
+        },
+        {
+            "Map": "Goldie",
+            "Time": 176,
+            "Timestamp": "2021-10-24 09:44:31"
+        },
+        {
+            "Map": "Planetux",
+            "Time": 392.96,
+            "Timestamp": "2021-10-24 09:54:35"
+        },
+        {
+            "Map": "Im_Climb_2",
+            "Time": 1237,
+            "Timestamp": "2021-10-24 11:52:16"
+        },
+        {
+            "Map": "Kero-Gores3",
+            "Time": 1959.94,
+            "Timestamp": "2021-10-24 15:43:47"
+        },
+        {
+            "Map": "ChillerDragores11",
+            "Time": 786.14,
+            "Timestamp": "2021-10-25 14:00:49"
+        },
+        {
+            "Map": "Kero4QshaR",
+            "Time": 436.72,
+            "Timestamp": "2021-10-25 14:27:31"
+        },
+        {
+            "Map": "Terran",
+            "Time": 183.76,
+            "Timestamp": "2021-10-25 16:36:25"
+        },
+        {
+            "Map": "QuickOne",
+            "Time": 1602.12,
+            "Timestamp": "2021-10-25 17:47:23"
+        },
+        {
+            "Map": "Minimalist1",
+            "Time": 875.56,
+            "Timestamp": "2021-10-25 18:40:41"
+        },
+        {
+            "Map": "ShyzoEZ-1",
+            "Time": 251.2,
+            "Timestamp": "2021-10-26 13:32:34"
+        },
+        {
+            "Map": "Planetux",
+            "Time": 630.4,
+            "Timestamp": "2021-10-26 16:48:33"
+        },
+        {
+            "Map": "Q-Aip-Gores",
+            "Time": 735.48,
+            "Timestamp": "2021-10-27 15:53:08"
+        },
+        {
+            "Map": "Planetux",
+            "Time": 634.5,
+            "Timestamp": "2021-10-28 06:04:24"
+        },
+        {
+            "Map": "CandyLand",
+            "Time": 370,
+            "Timestamp": "2021-10-28 06:15:00"
+        },
+        {
+            "Map": "Q-Aip-Gores2",
+            "Time": 2162.92,
+            "Timestamp": "2021-10-28 12:25:16"
+        },
+        {
+            "Map": "FlipLipp5",
+            "Time": 561.44,
+            "Timestamp": "2021-10-28 18:15:06"
+        },
+        {
+            "Map": "fik4SubLime",
+            "Time": 496.34,
+            "Timestamp": "2021-10-29 12:35:15"
+        },
+        {
+            "Map": "fik4SubLime",
+            "Time": 154,
+            "Timestamp": "2021-10-29 12:40:05"
+        },
+        {
+            "Map": "ChillerDragores25",
+            "Time": 589.2,
+            "Timestamp": "2021-10-29 12:50:30"
+        },
+        {
+            "Map": "Spitfire",
+            "Time": 330.06,
+            "Timestamp": "2021-10-29 12:57:39"
+        },
+        {
+            "Map": "Aip-Gores",
+            "Time": 789.32,
+            "Timestamp": "2021-11-02 20:23:11"
+        },
+        {
+            "Map": "Aip-Gores",
+            "Time": 435.68,
+            "Timestamp": "2021-11-04 06:15:22"
+        },
+        {
+            "Map": "Encore2",
+            "Time": 736.32,
+            "Timestamp": "2021-11-04 07:37:08"
+        },
+        {
+            "Map": "KoGHub",
+            "Time": 1454.02,
+            "Timestamp": "2021-11-04 19:35:47"
+        },
+        {
+            "Map": "Generic_Purple",
+            "Time": 877.98,
+            "Timestamp": "2021-11-05 16:21:05"
+        },
+        {
+            "Map": "Afternight",
+            "Time": 663.78,
+            "Timestamp": "2021-11-05 18:26:50"
+        },
+        {
+            "Map": "Terran",
+            "Time": 291.62,
+            "Timestamp": "2021-11-05 20:25:22"
+        },
+        {
+            "Map": "QuickOne",
+            "Time": 934.5,
+            "Timestamp": "2021-11-05 20:47:56"
+        },
+        {
+            "Map": "Minimalist1",
+            "Time": 1364.48,
+            "Timestamp": "2021-11-06 17:09:29"
+        },
+        {
+            "Map": "Tux4Rookies",
+            "Time": 560.84,
+            "Timestamp": "2021-11-07 08:52:21"
+        },
+        {
+            "Map": "Aip-Gores",
+            "Time": 395.44,
+            "Timestamp": "2021-11-07 09:03:38"
+        },
+        {
+            "Map": "Nighthawk",
+            "Time": 439.78,
+            "Timestamp": "2021-11-09 11:37:17"
+        },
+        {
+            "Map": "MATTE",
+            "Time": 192.58,
+            "Timestamp": "2021-11-09 18:42:27"
+        },
+        {
+            "Map": "Gianth",
+            "Time": 811.2,
+            "Timestamp": "2021-11-10 21:05:35"
+        },
+        {
+            "Map": "Q-Easy2",
+            "Time": 667.38,
+            "Timestamp": "2021-11-12 08:41:21"
+        },
+        {
+            "Map": "Pup3",
+            "Time": 555.56,
+            "Timestamp": "2021-11-13 12:37:22"
+        },
+        {
+            "Map": "Tuxcana",
+            "Time": 562.36,
+            "Timestamp": "2021-11-13 17:33:05"
+        },
+        {
+            "Map": "Planetux",
+            "Time": 462.16,
+            "Timestamp": "2021-11-15 20:17:32"
+        },
+        {
+            "Map": "Icebreaker",
+            "Time": 99.88,
+            "Timestamp": "2021-11-16 19:48:41"
+        },
+        {
+            "Map": "fik4Isi",
+            "Time": 171.08,
+            "Timestamp": "2021-11-16 20:26:41"
+        },
+        {
+            "Map": "ShyzoEZ-1",
+            "Time": 339.78,
+            "Timestamp": "2021-11-17 11:13:11"
+        },
+        {
+            "Map": "fikvie",
+            "Time": 2703.32,
+            "Timestamp": "2021-11-17 16:53:43"
+        },
+        {
+            "Map": "Ckis_4_unskilledplayer",
+            "Time": 469.3,
+            "Timestamp": "2021-11-17 20:12:29"
+        },
+        {
+            "Map": "HeyTux2",
+            "Time": 606.56,
+            "Timestamp": "2021-11-17 20:28:04"
+        },
+        {
+            "Map": "RyuGore1",
+            "Time": 555.72,
+            "Timestamp": "2021-11-17 21:05:13"
+        },
+        {
+            "Map": "Nighthawk",
+            "Time": 311.38,
+            "Timestamp": "2021-11-18 12:29:55"
+        },
+        {
+            "Map": "Just_Gores9",
+            "Time": 2474.86,
+            "Timestamp": "2021-11-20 14:16:50"
+        },
+        {
+            "Map": "Planetux",
+            "Time": 230.66,
+            "Timestamp": "2021-11-23 10:05:29"
+        },
+        {
+            "Map": "VampEz1",
+            "Time": 103.28,
+            "Timestamp": "2021-11-23 10:08:39"
+        },
+        {
+            "Map": "Aip-Gores",
+            "Time": 467.04,
+            "Timestamp": "2021-11-23 11:11:26"
+        },
+        {
+            "Map": "Q-Easy2",
+            "Time": 115.88,
+            "Timestamp": "2021-11-23 15:40:29"
+        },
+        {
+            "Map": "Planetux",
+            "Time": 705.38,
+            "Timestamp": "2021-11-25 12:27:44"
+        },
+        {
+            "Map": "BLACK_SMOKE",
+            "Time": 378.2,
+            "Timestamp": "2021-11-26 09:32:28"
+        },
+        {
+            "Map": "Icebreaker",
+            "Time": 275.34,
+            "Timestamp": "2021-11-28 11:10:34"
+        },
+        {
+            "Map": "Icebreaker",
+            "Time": 341.78,
+            "Timestamp": "2021-11-28 16:05:48"
+        },
+        {
+            "Map": "NealsonSpeedy",
+            "Time": 464.44,
+            "Timestamp": "2021-11-28 17:56:36"
+        },
+        {
+            "Map": "Pup2",
+            "Time": 747.14,
+            "Timestamp": "2021-12-04 20:12:36"
+        },
+        {
+            "Map": "Aip-Gores",
+            "Time": 1034.42,
+            "Timestamp": "2021-12-06 09:56:48"
+        },
+        {
+            "Map": "Dandelinux",
+            "Time": 292.6,
+            "Timestamp": "2021-12-06 12:52:19"
+        },
+        {
+            "Map": "Grieta",
+            "Time": 2049.68,
+            "Timestamp": "2021-12-07 10:21:36"
+        },
+        {
+            "Map": "MATTE",
+            "Time": 198.66,
+            "Timestamp": "2021-12-07 12:34:53"
+        },
+        {
+            "Map": "MikuEasy",
+            "Time": 622.08,
+            "Timestamp": "2021-12-07 12:53:44"
+        },
+        {
+            "Map": "Q-Aip-Gores8",
+            "Time": 781.78,
+            "Timestamp": "2021-12-08 11:41:47"
+        },
+        {
+            "Map": "CandyLand",
+            "Time": 132.72,
+            "Timestamp": "2021-12-10 09:38:47"
+        },
+        {
+            "Map": "Spitfire",
+            "Time": 895.7,
+            "Timestamp": "2021-12-10 09:57:37"
+        },
+        {
+            "Map": "Pup4",
+            "Time": 263.68,
+            "Timestamp": "2021-12-10 20:04:22"
+        },
+        {
+            "Map": "Just_TeE3",
+            "Time": 198.06,
+            "Timestamp": "2021-12-10 20:27:00"
+        },
+        {
+            "Map": "Eden",
+            "Time": 1359.64,
+            "Timestamp": "2021-12-13 21:00:56"
+        },
+        {
+            "Map": "Nighthawk",
+            "Time": 219.52,
+            "Timestamp": "2021-12-18 12:35:49"
+        },
+        {
+            "Map": "Shadow_Gores",
+            "Time": 945.42,
+            "Timestamp": "2021-12-20 10:38:16"
+        },
+        {
+            "Map": "CandyLand",
+            "Time": 99.12,
+            "Timestamp": "2021-12-20 19:26:49"
+        },
+        {
+            "Map": "CandyLand",
+            "Time": 91.84,
+            "Timestamp": "2021-12-20 19:28:36"
+        },
+        {
+            "Map": "Nighthawk",
+            "Time": 183.84,
+            "Timestamp": "2021-12-20 19:33:40"
+        },
+        {
+            "Map": "Goldie",
+            "Time": 125.18,
+            "Timestamp": "2022-01-03 19:17:25"
+        },
+        {
+            "Map": "Goldie",
+            "Time": 280.76,
+            "Timestamp": "2022-01-04 14:13:48"
+        },
+        {
+            "Map": "Aip-Gores",
+            "Time": 871.38,
+            "Timestamp": "2022-01-05 06:07:40"
+        },
+        {
+            "Map": "FlipLipp5",
+            "Time": 684,
+            "Timestamp": "2022-01-05 10:03:45"
+        },
+        {
+            "Map": "002",
+            "Time": 480.68,
+            "Timestamp": "2022-01-05 15:55:52"
+        },
+        {
+            "Map": "FlipLipp37",
+            "Time": 592.42,
+            "Timestamp": "2022-01-06 12:39:50"
+        },
+        {
+            "Map": "Planetux",
+            "Time": 284.2,
+            "Timestamp": "2022-01-06 15:12:59"
+        },
+        {
+            "Map": "ChillerDragores25",
+            "Time": 481.18,
+            "Timestamp": "2022-01-06 15:28:12"
+        },
+        {
+            "Map": "MATTE",
+            "Time": 229.06,
+            "Timestamp": "2022-01-06 15:37:17"
+        },
+        {
+            "Map": "Aip-Gores",
+            "Time": 454.16,
+            "Timestamp": "2022-01-07 09:49:46"
+        },
+        {
+            "Map": "Yo8",
+            "Time": 1505.14,
+            "Timestamp": "2022-01-07 18:11:22"
+        },
+        {
+            "Map": "Greyfox",
+            "Time": 328.52,
+            "Timestamp": "2022-01-07 18:34:23"
+        },
+        {
+            "Map": "Tux4Rookies",
+            "Time": 290.4,
+            "Timestamp": "2022-01-08 14:02:38"
+        },
+        {
+            "Map": "Planetux",
+            "Time": 196.72,
+            "Timestamp": "2022-01-10 10:02:28"
+        },
+        {
+            "Map": "Afternight",
+            "Time": 258.22,
+            "Timestamp": "2022-01-10 20:47:46"
+        },
+        {
+            "Map": "Aip-Gores",
+            "Time": 691.06,
+            "Timestamp": "2022-01-11 10:36:29"
+        },
+        {
+            "Map": "InkTerston1",
+            "Time": 3395.88,
+            "Timestamp": "2022-01-11 21:47:17"
+        },
+        {
+            "Map": "Goldie",
+            "Time": 223.3,
+            "Timestamp": "2022-01-12 14:52:06"
+        },
+        {
+            "Map": "Icebreaker",
+            "Time": 98.12,
+            "Timestamp": "2022-01-15 13:59:51"
+        },
+        {
+            "Map": "FlipGores",
+            "Time": 485.36,
+            "Timestamp": "2022-01-16 08:51:42"
+        },
+        {
+            "Map": "Goldie",
+            "Time": 342.2,
+            "Timestamp": "2022-01-16 19:54:17"
+        },
+        {
+            "Map": "BumM2",
+            "Time": 276.28,
+            "Timestamp": "2022-01-17 20:47:37"
+        },
+        {
+            "Map": "Amol2",
+            "Time": 263.24,
+            "Timestamp": "2022-01-19 19:12:40"
+        },
+        {
+            "Map": "HeyTux2",
+            "Time": 1020.82,
+            "Timestamp": "2022-01-20 10:29:12"
+        },
+        {
+            "Map": "Through_the_Dust",
+            "Time": 393.26,
+            "Timestamp": "2022-01-21 11:29:34"
+        },
+        {
+            "Map": "YoJustTeE",
+            "Time": 1751.7,
+            "Timestamp": "2022-01-21 12:16:56"
+        },
+        {
+            "Map": "Greyfox",
+            "Time": 262.44,
+            "Timestamp": "2022-01-21 18:37:39"
+        },
+        {
+            "Map": "Kero-Gores7",
+            "Time": 396.88,
+            "Timestamp": "2022-01-21 19:00:41"
+        },
+        {
+            "Map": "Through_the_Dust",
+            "Time": 1238.44,
+            "Timestamp": "2022-01-22 11:51:41"
+        },
+        {
+            "Map": "NealsonSpeedy",
+            "Time": 788.66,
+            "Timestamp": "2022-01-23 21:13:06"
+        },
+        {
+            "Map": "Nighthawk",
+            "Time": 982.58,
+            "Timestamp": "2022-01-24 17:35:19"
+        },
+        {
+            "Map": "Yo5",
+            "Time": 2746.96,
+            "Timestamp": "2022-01-24 19:52:17"
+        },
+        {
+            "Map": "Bl0od4Isi",
+            "Time": 1396,
+            "Timestamp": "2022-01-25 11:02:59"
+        },
+        {
+            "Map": "VampEz1",
+            "Time": 128.5,
+            "Timestamp": "2022-01-25 15:26:50"
+        },
+        {
+            "Map": "Corrupted_Easy",
+            "Time": 450.3,
+            "Timestamp": "2022-01-25 16:45:52"
+        },
+        {
+            "Map": "Afternight",
+            "Time": 476.94,
+            "Timestamp": "2022-01-25 16:54:39"
+        },
+        {
+            "Map": "Planetux",
+            "Time": 466.78,
+            "Timestamp": "2022-01-25 18:17:28"
+        },
+        {
+            "Map": "Lilac",
+            "Time": 122.96,
+            "Timestamp": "2022-01-25 19:32:01"
+        },
+        {
+            "Map": "Lilac",
+            "Time": 96.7,
+            "Timestamp": "2022-01-25 19:36:10"
+        },
+        {
+            "Map": "Lilac",
+            "Time": 95.44,
+            "Timestamp": "2022-01-26 10:20:29"
+        },
+        {
+            "Map": "fik4SubLime",
+            "Time": 77.26,
+            "Timestamp": "2022-01-26 19:46:43"
+        },
+        {
+            "Map": "Corrupted_Easy",
+            "Time": 512.92,
+            "Timestamp": "2022-01-26 20:06:22"
+        },
+        {
+            "Map": "FlipFeat",
+            "Time": 1226.86,
+            "Timestamp": "2022-01-27 15:03:39"
+        },
+        {
+            "Map": "FlipChillerDestin",
+            "Time": 1860.38,
+            "Timestamp": "2022-01-27 15:37:54"
+        },
+        {
+            "Map": "Generic_Purple",
+            "Time": 754.96,
+            "Timestamp": "2022-01-28 11:00:37"
+        },
+        {
+            "Map": "splith",
+            "Time": 965.98,
+            "Timestamp": "2022-01-28 13:46:54"
+        },
+        {
+            "Map": "OldSchool2",
+            "Time": 391.86,
+            "Timestamp": "2022-01-28 20:15:53"
+        },
+        {
+            "Map": "Nighthawk",
+            "Time": 901.68,
+            "Timestamp": "2022-01-29 10:48:03"
+        },
+        {
+            "Map": "CandyLand",
+            "Time": 78.18,
+            "Timestamp": "2022-01-30 15:23:38"
+        },
+        {
+            "Map": "Lilac",
+            "Time": 117.96,
+            "Timestamp": "2022-01-30 17:48:43"
+        },
+        {
+            "Map": "Peuma",
+            "Time": 2963.96,
+            "Timestamp": "2022-01-30 20:53:12"
+        },
+        {
+            "Map": "Planetux",
+            "Time": 274.58,
+            "Timestamp": "2022-01-31 15:46:00"
+        },
+        {
+            "Map": "Lilac",
+            "Time": 151.08,
+            "Timestamp": "2022-01-31 18:29:50"
+        },
+        {
+            "Map": "Nighthawk",
+            "Time": 418.38,
+            "Timestamp": "2022-02-01 14:24:08"
+        },
+        {
+            "Map": "CandyLand",
+            "Time": 96.76,
+            "Timestamp": "2022-02-01 17:00:47"
+        },
+        {
+            "Map": "Dandelinux",
+            "Time": 68.82,
+            "Timestamp": "2022-02-04 21:07:03"
+        },
+        {
+            "Map": "Dandelinux",
+            "Time": 70.42,
+            "Timestamp": "2022-02-04 21:12:12"
+        },
+        {
+            "Map": "Tux4Rookies",
+            "Time": 471.7,
+            "Timestamp": "2022-02-06 11:41:20"
+        },
+        {
+            "Map": "CandyLand",
+            "Time": 71.86,
+            "Timestamp": "2022-02-07 19:12:58"
+        },
+        {
+            "Map": "CandyLand",
+            "Time": 73.7,
+            "Timestamp": "2022-02-07 19:29:57"
+        },
+        {
+            "Map": "Generic_Purple",
+            "Time": 344.7,
+            "Timestamp": "2022-02-07 19:59:57"
+        },
+        {
+            "Map": "Wintux",
+            "Time": 369.68,
+            "Timestamp": "2022-02-07 20:25:28"
+        },
+        {
+            "Map": "Knight1e",
+            "Time": 307.16,
+            "Timestamp": "2022-02-07 20:47:26"
+        },
+        {
+            "Map": "Planetux",
+            "Time": 241.88,
+            "Timestamp": "2022-02-08 12:55:49"
+        },
+        {
+            "Map": "Nighthawk",
+            "Time": 1102.76,
+            "Timestamp": "2022-02-08 16:25:36"
+        },
+        {
+            "Map": "Planetux",
+            "Time": 688.5,
+            "Timestamp": "2022-02-09 09:13:39"
+        },
+        {
+            "Map": "Icebreaker",
+            "Time": 446.9,
+            "Timestamp": "2022-02-09 09:25:24"
+        },
+        {
+            "Map": "Goldie",
+            "Time": 183.86,
+            "Timestamp": "2022-02-09 15:04:38"
+        },
+        {
+            "Map": "fik4SubLime",
+            "Time": 193.36,
+            "Timestamp": "2022-02-09 15:13:16"
+        },
+        {
+            "Map": "Gridwyn8",
+            "Time": 1431.72,
+            "Timestamp": "2022-02-10 08:49:05"
+        },
+        {
+            "Map": "Dandelinux",
+            "Time": 392.54,
+            "Timestamp": "2022-02-10 15:05:42"
+        },
+        {
+            "Map": "NealsonSpeedy",
+            "Time": 793.56,
+            "Timestamp": "2022-02-19 15:27:36"
+        },
+        {
+            "Map": "Kero4QshaR",
+            "Time": 724.92,
+            "Timestamp": "2022-02-20 10:50:50"
+        },
+        {
+            "Map": "Kero4QshaR",
+            "Time": 574.58,
+            "Timestamp": "2022-02-20 19:09:44"
+        },
+        {
+            "Map": "Nighthawk",
+            "Time": 187.2,
+            "Timestamp": "2022-02-21 13:35:55"
+        },
+        {
+            "Map": "Afternight",
+            "Time": 551.88,
+            "Timestamp": "2022-02-21 20:49:02"
+        },
+        {
+            "Map": "Pup4",
+            "Time": 492.24,
+            "Timestamp": "2022-02-21 21:00:03"
+        },
+        {
+            "Map": "Corrupted_Easy",
+            "Time": 549.16,
+            "Timestamp": "2022-02-23 20:25:18"
+        },
+        {
+            "Map": "VampEz1",
+            "Time": 276.48,
+            "Timestamp": "2022-02-24 14:02:52"
+        },
+        {
+            "Map": "Sandy_Cave",
+            "Time": 232.44,
+            "Timestamp": "2022-02-24 19:37:43"
+        },
+        {
+            "Map": "HeyTux4",
+            "Time": 820.1,
+            "Timestamp": "2022-02-25 19:39:04"
+        },
+        {
+            "Map": "MATTE",
+            "Time": 466.4,
+            "Timestamp": "2022-02-25 20:43:07"
+        },
+        {
+            "Map": "ChillerDragores25",
+            "Time": 712.98,
+            "Timestamp": "2022-02-25 21:03:26"
+        },
+        {
+            "Map": "Corrupted_Easy",
+            "Time": 670.16,
+            "Timestamp": "2022-02-26 15:17:09"
+        },
+        {
+            "Map": "ShyzoEZ-1",
+            "Time": 309.64,
+            "Timestamp": "2022-02-26 15:38:36"
+        },
+        {
+            "Map": "FlipLipp7",
+            "Time": 1038.9,
+            "Timestamp": "2022-02-28 10:36:52"
+        },
+        {
+            "Map": "Nighthawk",
+            "Time": 1566.18,
+            "Timestamp": "2022-02-28 13:59:11"
+        },
+        {
+            "Map": "MikuEasy",
+            "Time": 296.48,
+            "Timestamp": "2022-03-01 12:26:51"
+        },
+        {
+            "Map": "Q-Aip-Gores6",
+            "Time": 482.94,
+            "Timestamp": "2022-03-01 16:23:03"
+        },
+        {
+            "Map": "002",
+            "Time": 266.04,
+            "Timestamp": "2022-03-01 19:14:07"
+        },
+        {
+            "Map": "Mixi4RaiNy",
+            "Time": 900.02,
+            "Timestamp": "2022-03-01 20:19:38"
+        },
+        {
+            "Map": "MATTE",
+            "Time": 479.28,
+            "Timestamp": "2022-03-02 07:58:35"
+        },
+        {
+            "Map": "Planetux",
+            "Time": 353.18,
+            "Timestamp": "2022-03-02 08:12:13"
+        },
+        {
+            "Map": "HeyBzw",
+            "Time": 201.38,
+            "Timestamp": "2022-03-02 19:39:03"
+        },
+        {
+            "Map": "MATTE",
+            "Time": 587.34,
+            "Timestamp": "2022-03-03 13:39:24"
+        },
+        {
+            "Map": "BLACK_SMOKE",
+            "Time": 475.56,
+            "Timestamp": "2022-03-03 13:48:35"
+        },
+        {
+            "Map": "HeyBzw",
+            "Time": 595.04,
+            "Timestamp": "2022-03-03 13:59:29"
+        },
+        {
+            "Map": "Icebreaker",
+            "Time": 200.86,
+            "Timestamp": "2022-03-04 15:09:52"
+        },
+        {
+            "Map": "Just_Gores9",
+            "Time": 1536.48,
+            "Timestamp": "2022-03-04 16:16:02"
+        },
+        {
+            "Map": "Corrupted_Easy",
+            "Time": 708.22,
+            "Timestamp": "2022-03-04 19:46:47"
+        },
+        {
+            "Map": "002",
+            "Time": 360.38,
+            "Timestamp": "2022-03-04 20:54:57"
+        },
+        {
+            "Map": "Lilac",
+            "Time": 88.66,
+            "Timestamp": "2022-03-05 14:57:53"
+        },
+        {
+            "Map": "Kero4cooper",
+            "Time": 496.28,
+            "Timestamp": "2022-03-05 21:32:14"
+        },
+        {
+            "Map": "Vampyrali2",
+            "Time": 953.3,
+            "Timestamp": "2022-03-06 11:11:18"
+        },
+        {
+            "Map": "FlipLipp31",
+            "Time": 1051.72,
+            "Timestamp": "2022-03-06 15:34:18"
+        },
+        {
+            "Map": "fik4SubLime",
+            "Time": 449.4,
+            "Timestamp": "2022-03-06 18:59:47"
+        },
+        {
+            "Map": "003",
+            "Time": 1096.18,
+            "Timestamp": "2022-03-07 14:22:36"
+        },
+        {
+            "Map": "CandyLand",
+            "Time": 346.74,
+            "Timestamp": "2022-03-07 14:34:12"
+        },
+        {
+            "Map": "Spitfire",
+            "Time": 241.98,
+            "Timestamp": "2022-03-07 14:49:46"
+        },
+        {
+            "Map": "QuickOne",
+            "Time": 208.34,
+            "Timestamp": "2022-03-07 14:59:23"
+        },
+        {
+            "Map": "Sapphire",
+            "Time": 999.42,
+            "Timestamp": "2022-03-07 16:54:42"
+        },
+        {
+            "Map": "BLACK_SMOKE",
+            "Time": 482.18,
+            "Timestamp": "2022-03-07 17:11:15"
+        },
+        {
+            "Map": "Sapphire",
+            "Time": 476.8,
+            "Timestamp": "2022-03-07 19:49:27"
+        },
+        {
+            "Map": "Alone",
+            "Time": 442.72,
+            "Timestamp": "2022-03-07 19:59:05"
+        },
+        {
+            "Map": "FlipLipp36",
+            "Time": 855.34,
+            "Timestamp": "2022-03-07 20:17:54"
+        },
+        {
+            "Map": "fikbzw",
+            "Time": 673.1,
+            "Timestamp": "2022-03-07 20:36:02"
+        },
+        {
+            "Map": "Bl0od-Dens10",
+            "Time": 1232.18,
+            "Timestamp": "2022-03-07 20:58:01"
+        },
+        {
+            "Map": "Sandy_Cave",
+            "Time": 663.84,
+            "Timestamp": "2022-03-08 13:05:17"
+        },
+        {
+            "Map": "FlipLipp21",
+            "Time": 1564,
+            "Timestamp": "2022-03-08 18:59:10"
+        },
+        {
+            "Map": "Humik4Alea",
+            "Time": 360.54,
+            "Timestamp": "2022-03-08 21:22:52"
+        },
+        {
+            "Map": "QuickOne",
+            "Time": 294.26,
+            "Timestamp": "2022-03-08 21:42:54"
+        },
+        {
+            "Map": "Sapphire",
+            "Time": 445.44,
+            "Timestamp": "2022-03-09 21:28:48"
+        },
+        {
+            "Map": "tyrone4fretardo",
+            "Time": 815.04,
+            "Timestamp": "2022-03-10 11:45:30"
+        },
+        {
+            "Map": "Planetux",
+            "Time": 351.48,
+            "Timestamp": "2022-03-10 19:30:30"
+        },
+        {
+            "Map": "ShyzoEZ-1",
+            "Time": 212.74,
+            "Timestamp": "2022-03-11 12:44:59"
+        },
+        {
+            "Map": "Nighthawk",
+            "Time": 378.04,
+            "Timestamp": "2022-03-11 12:53:06"
+        },
+        {
+            "Map": "Q-Easy2",
+            "Time": 384.22,
+            "Timestamp": "2022-03-11 13:22:05"
+        },
+        {
+            "Map": "BLACK_SMOKE",
+            "Time": 137.52,
+            "Timestamp": "2022-03-11 13:25:05"
+        },
+        {
+            "Map": "Boardwalk",
+            "Time": 301.12,
+            "Timestamp": "2022-03-11 20:18:36"
+        },
+        {
+            "Map": "nevergores4",
+            "Time": 834.14,
+            "Timestamp": "2022-03-12 20:21:36"
+        },
+        {
+            "Map": "Lilac",
+            "Time": 599.46,
+            "Timestamp": "2022-03-13 11:12:51"
+        },
+        {
+            "Map": "fik4SubLime",
+            "Time": 399.86,
+            "Timestamp": "2022-03-13 11:26:43"
+        },
+        {
+            "Map": "Minimalist1",
+            "Time": 961.08,
+            "Timestamp": "2022-03-13 18:17:29"
+        },
+        {
+            "Map": "Aip-Gores",
+            "Time": 1096.66,
+            "Timestamp": "2022-03-14 08:03:44"
+        },
+        {
+            "Map": "Q-Gores3",
+            "Time": 386.54,
+            "Timestamp": "2022-03-14 12:31:49"
+        },
+        {
+            "Map": "CandyLand",
+            "Time": 106.12,
+            "Timestamp": "2022-03-14 13:54:39"
+        },
+        {
+            "Map": "Afternight",
+            "Time": 893.26,
+            "Timestamp": "2022-03-14 18:49:14"
+        },
+        {
+            "Map": "Lilac",
+            "Time": 194.16,
+            "Timestamp": "2022-03-15 18:13:26"
+        },
+        {
+            "Map": "Estern1e",
+            "Time": 1423.96,
+            "Timestamp": "2022-03-16 09:43:06"
+        },
+        {
+            "Map": "nevergores4",
+            "Time": 271.4,
+            "Timestamp": "2022-03-16 19:33:31"
+        },
+        {
+            "Map": "fik4SubLime",
+            "Time": 542.76,
+            "Timestamp": "2022-03-17 14:12:24"
+        },
+        {
+            "Map": "Goldie",
+            "Time": 356.2,
+            "Timestamp": "2022-03-17 14:20:27"
+        },
+        {
+            "Map": "Aip-Gores",
+            "Time": 966.58,
+            "Timestamp": "2022-03-17 14:37:35"
+        },
+        {
+            "Map": "VampEz1",
+            "Time": 73.9,
+            "Timestamp": "2022-03-17 17:06:46"
+        },
+        {
+            "Map": "Goldie",
+            "Time": 72.8,
+            "Timestamp": "2022-03-17 19:18:28"
+        },
+        {
+            "Map": "Bl0od4Zant",
+            "Time": 231.02,
+            "Timestamp": "2022-03-18 12:22:50"
+        },
+        {
+            "Map": "Kero4QshaR",
+            "Time": 848.24,
+            "Timestamp": "2022-03-19 15:03:49"
+        },
+        {
+            "Map": "YoJustTeE",
+            "Time": 2154.56,
+            "Timestamp": "2022-03-20 16:42:30"
+        },
+        {
+            "Map": "CGores_2",
+            "Time": 2302.08,
+            "Timestamp": "2022-03-20 19:15:39"
+        },
+        {
+            "Map": "Afternight",
+            "Time": 446.04,
+            "Timestamp": "2022-03-22 20:20:07"
+        },
+        {
+            "Map": "CandyLand",
+            "Time": 72.96,
+            "Timestamp": "2022-03-22 21:17:11"
+        },
+        {
+            "Map": "CandyLand",
+            "Time": 66.82,
+            "Timestamp": "2022-03-22 21:20:18"
+        },
+        {
+            "Map": "CGores_2",
+            "Time": 1770.92,
+            "Timestamp": "2022-03-23 11:13:26"
+        },
+        {
+            "Map": "Goldie",
+            "Time": 68.32,
+            "Timestamp": "2022-03-23 11:43:34"
+        },
+        {
+            "Map": "Nighthawk",
+            "Time": 889.28,
+            "Timestamp": "2022-03-23 15:37:23"
+        },
+        {
+            "Map": "Terran",
+            "Time": 218.48,
+            "Timestamp": "2022-03-23 16:05:11"
+        },
+        {
+            "Map": "Cherry",
+            "Time": 1060.64,
+            "Timestamp": "2022-03-23 18:58:11"
+        },
+        {
+            "Map": "CGores",
+            "Time": 2174.04,
+            "Timestamp": "2022-03-24 10:35:02"
+        },
+        {
+            "Map": "CheatMe",
+            "Time": 2174.94,
+            "Timestamp": "2022-03-24 13:01:51"
+        },
+        {
+            "Map": "CGores",
+            "Time": 1077.74,
+            "Timestamp": "2022-03-24 19:40:20"
+        },
+        {
+            "Map": "Just_TeE3",
+            "Time": 312.84,
+            "Timestamp": "2022-03-26 09:20:14"
+        },
+        {
+            "Map": "NoxiBoxi",
+            "Time": 1258.82,
+            "Timestamp": "2022-03-26 10:47:02"
+        },
+        {
+            "Map": "Nighthawk",
+            "Time": 162.4,
+            "Timestamp": "2022-03-26 11:06:26"
+        },
+        {
+            "Map": "Nighthawk",
+            "Time": 617.04,
+            "Timestamp": "2022-03-26 13:57:56"
+        },
+        {
+            "Map": "ShyzoEZ-1",
+            "Time": 388.66,
+            "Timestamp": "2022-03-26 16:45:26"
+        },
+        {
+            "Map": "za1e",
+            "Time": 647.84,
+            "Timestamp": "2022-03-27 18:03:31"
+        },
+        {
+            "Map": "Afternight",
+            "Time": 221.26,
+            "Timestamp": "2022-03-28 20:01:35"
+        },
+        {
+            "Map": "Nyanto4Graves",
+            "Time": 3856.64,
+            "Timestamp": "2022-03-29 18:40:55"
+        },
+        {
+            "Map": "Q-Easy2",
+            "Time": 274.34,
+            "Timestamp": "2022-03-30 07:29:01"
+        },
+        {
+            "Map": "FlipGores",
+            "Time": 544.68,
+            "Timestamp": "2022-03-30 10:23:33"
+        },
+        {
+            "Map": "Kero4QshaR",
+            "Time": 782.92,
+            "Timestamp": "2022-03-30 10:48:40"
+        },
+        {
+            "Map": "RuskiFlip",
+            "Time": 395.12,
+            "Timestamp": "2022-03-30 13:41:13"
+        },
+        {
+            "Map": "Lionheart",
+            "Time": 1249.2,
+            "Timestamp": "2022-03-30 14:06:07"
+        },
+        {
+            "Map": "003",
+            "Time": 575.9,
+            "Timestamp": "2022-03-30 14:34:12"
+        },
+        {
+            "Map": "Eden",
+            "Time": 594.96,
+            "Timestamp": "2022-03-30 18:39:38"
+        },
+        {
+            "Map": "CGores",
+            "Time": 2366.3,
+            "Timestamp": "2022-03-31 12:16:26"
+        },
+        {
+            "Map": "Anonymous",
+            "Time": 377.98,
+            "Timestamp": "2022-03-31 16:33:07"
+        },
+        {
+            "Map": "ChillerDragores25",
+            "Time": 882.32,
+            "Timestamp": "2022-04-01 15:32:35"
+        },
+        {
+            "Map": "Yo4WojMen",
+            "Time": 193.96,
+            "Timestamp": "2022-04-02 11:14:47"
+        },
+        {
+            "Map": "Zonsa4Luckuy21",
+            "Time": 275.06,
+            "Timestamp": "2022-04-02 11:43:18"
+        },
+        {
+            "Map": "Drakengores_1",
+            "Time": 255.18,
+            "Timestamp": "2022-04-02 12:02:11"
+        },
+        {
+            "Map": "SEMI",
+            "Time": 286.44,
+            "Timestamp": "2022-04-04 06:31:50"
+        },
+        {
+            "Map": "Gridwyn8",
+            "Time": 1306.84,
+            "Timestamp": "2022-04-04 12:26:12"
+        },
+        {
+            "Map": "Generic_Purple",
+            "Time": 915.34,
+            "Timestamp": "2022-04-05 12:21:19"
+        },
+        {
+            "Map": "MinTurquoise",
+            "Time": 631.42,
+            "Timestamp": "2022-04-06 11:13:59"
+        },
+        {
+            "Map": "Corrupted_Easy",
+            "Time": 186.7,
+            "Timestamp": "2022-04-06 14:51:52"
+        },
+        {
+            "Map": "HeyTux2",
+            "Time": 530.76,
+            "Timestamp": "2022-04-08 11:40:31"
+        },
+        {
+            "Map": "sd004_NIghtLIfe",
+            "Time": 929.94,
+            "Timestamp": "2022-04-09 15:17:11"
+        },
+        {
+            "Map": "fikmesan",
+            "Time": 221.48,
+            "Timestamp": "2022-04-09 18:32:02"
+        },
+        {
+            "Map": "HeyBzw",
+            "Time": 1215.72,
+            "Timestamp": "2022-04-10 14:39:34"
+        },
+        {
+            "Map": "Goldie",
+            "Time": 456.18,
+            "Timestamp": "2022-04-12 09:25:35"
+        },
+        {
+            "Map": "Yo5",
+            "Time": 3264.94,
+            "Timestamp": "2022-04-12 13:03:55"
+        },
+        {
+            "Map": "Corrupted_Easy",
+            "Time": 530.2,
+            "Timestamp": "2022-04-12 17:21:28"
+        },
+        {
+            "Map": "Mechanica",
+            "Time": 498.48,
+            "Timestamp": "2022-04-19 11:25:04"
+        },
+        {
+            "Map": "ChillerDragores10",
+            "Time": 480.78,
+            "Timestamp": "2022-04-19 11:42:03"
+        },
+        {
+            "Map": "Encore2",
+            "Time": 469.48,
+            "Timestamp": "2022-04-19 11:54:48"
+        },
+        {
+            "Map": "HeyTux5",
+            "Time": 903.66,
+            "Timestamp": "2022-04-20 09:48:14"
+        },
+        {
+            "Map": "Afternight",
+            "Time": 166.2,
+            "Timestamp": "2022-04-21 17:03:39"
+        },
+        {
+            "Map": "Corrupted_Easy",
+            "Time": 250.82,
+            "Timestamp": "2022-04-22 19:10:01"
+        },
+        {
+            "Map": "Corrupted_Easy",
+            "Time": 175.66,
+            "Timestamp": "2022-04-22 19:22:40"
+        },
+        {
+            "Map": "HeyTux4",
+            "Time": 279.84,
+            "Timestamp": "2022-04-22 19:36:39"
+        },
+        {
+            "Map": "QuickOne",
+            "Time": 384.22,
+            "Timestamp": "2022-04-22 19:43:25"
+        },
+        {
+            "Map": "FlipLipp3e",
+            "Time": 593.5,
+            "Timestamp": "2022-04-22 20:12:11"
+        },
+        {
+            "Map": "Evening",
+            "Time": 904.3,
+            "Timestamp": "2022-04-23 13:07:02"
+        },
+        {
+            "Map": "FlipLipp19",
+            "Time": 340.84,
+            "Timestamp": "2022-04-24 12:49:57"
+        },
+        {
+            "Map": "CandyLand",
+            "Time": 129.46,
+            "Timestamp": "2022-04-25 14:34:37"
+        },
+        {
+            "Map": "Ckis_4_unskilledplayer",
+            "Time": 316.24,
+            "Timestamp": "2022-04-26 13:10:55"
+        },
+        {
+            "Map": "Bl0od4Anni",
+            "Time": 1140.98,
+            "Timestamp": "2022-04-26 18:17:07"
+        },
+        {
+            "Map": "Shyzo4Cecily",
+            "Time": 1905.8,
+            "Timestamp": "2022-04-26 20:23:38"
+        },
+        {
+            "Map": "Lilac",
+            "Time": 308.7,
+            "Timestamp": "2022-04-27 16:07:21"
+        },
+        {
+            "Map": "Lilac",
+            "Time": 180.48,
+            "Timestamp": "2022-04-27 16:15:32"
+        },
+        {
+            "Map": "Greeny",
+            "Time": 137.96,
+            "Timestamp": "2022-04-27 16:38:10"
+        },
+        {
+            "Map": "Greeny",
+            "Time": 115.3,
+            "Timestamp": "2022-04-27 16:54:07"
+        },
+        {
+            "Map": "Goldie",
+            "Time": 351.4,
+            "Timestamp": "2022-04-28 11:51:37"
+        },
+        {
+            "Map": "Q-Easy1",
+            "Time": 147.6,
+            "Timestamp": "2022-04-28 12:13:22"
+        },
+        {
+            "Map": "Greeny",
+            "Time": 247.42,
+            "Timestamp": "2022-04-28 14:20:31"
+        },
+        {
+            "Map": "ZeroSeven",
+            "Time": 603.94,
+            "Timestamp": "2022-04-29 19:18:13"
+        },
+        {
+            "Map": "Q-Aip-Gores",
+            "Time": 701.08,
+            "Timestamp": "2022-04-30 18:47:07"
+        },
+        {
+            "Map": "HeyTux4",
+            "Time": 539.76,
+            "Timestamp": "2022-04-30 20:19:34"
+        },
+        {
+            "Map": "Vampyrali3",
+            "Time": 736.48,
+            "Timestamp": "2022-05-01 14:36:13"
+        },
+        {
+            "Map": "ZeroSeven",
+            "Time": 481.38,
+            "Timestamp": "2022-05-01 17:03:38"
+        },
+        {
+            "Map": "Rei_N_Sd030",
+            "Time": 630.24,
+            "Timestamp": "2022-05-01 17:17:39"
+        },
+        {
+            "Map": "Wintux",
+            "Time": 708.74,
+            "Timestamp": "2022-05-03 10:09:53"
+        },
+        {
+            "Map": "Sapphire",
+            "Time": 885.42,
+            "Timestamp": "2022-05-03 20:03:05"
+        }
+    ],
+    "lastteammates": [
+        {
+            "finishesnumber": 76,
+            "Namee": "Alion"
+        },
+        {
+            "finishesnumber": 11,
+            "Namee": "Polop900"
+        },
+        {
+            "finishesnumber": 9,
+            "Namee": "Dikers"
+        },
+        {
+            "finishesnumber": 9,
+            "Namee": "BEHIND U"
+        },
+        {
+            "finishesnumber": 6,
+            "Namee": "Syntax "
+        },
+        {
+            "finishesnumber": 6,
+            "Namee": "hardliner66"
+        },
+        {
+            "finishesnumber": 5,
+            "Namee": "royce"
+        },
+        {
+            "finishesnumber": 5,
+            "Namee": "trolix"
+        },
+        {
+            "finishesnumber": 5,
+            "Namee": "Xenon"
+        },
+        {
+            "finishesnumber": 5,
+            "Namee": "Jonetski"
+        }
+    ],
+    "rewards": [],
+    "mapsFinished": [
+        {
+            "count": 3,
+            "quests": "0",
+            "TS": "2022-03-04 20:54:57",
+            "T": 266.04,
+            "Server": "FR1",
+            "Map": "002"
+        },
+        {
+            "count": 2,
+            "quests": "0",
+            "TS": "2022-03-30 14:34:12",
+            "T": 575.9,
+            "Server": "DE4",
+            "Map": "003"
+        },
+        {
+            "count": 9,
+            "quests": "0",
+            "TS": "2022-04-21 17:03:39",
+            "T": 166.2,
+            "Server": "PL1",
+            "Map": "Afternight"
+        },
+        {
+            "count": 58,
+            "quests": "0",
+            "TS": "2022-03-17 14:37:35",
+            "T": 212.24,
+            "Server": "FR5",
+            "Map": "Aip-Gores"
+        },
+        {
+            "count": 1,
+            "quests": "0",
+            "TS": "2022-03-07 19:59:05",
+            "T": 442.72,
+            "Server": "FR4",
+            "Map": "Alone"
+        },
+        {
+            "count": 1,
+            "quests": "0",
+            "TS": "2022-01-19 19:12:40",
+            "T": 263.24,
+            "Server": "PL3",
+            "Map": "Amol2"
+        },
+        {
+            "count": 1,
+            "quests": "0",
+            "TS": "2022-03-31 16:33:07",
+            "T": 377.98,
+            "Server": "21",
+            "Map": "Anonymous"
+        },
+        {
+            "count": 7,
+            "quests": "0",
+            "TS": "2022-03-11 13:25:05",
+            "T": 137.52,
+            "Server": "DE2",
+            "Map": "BLACK_SMOKE"
+        },
+        {
+            "count": 1,
+            "quests": "0",
+            "TS": "2022-03-07 20:58:01",
+            "T": 1232.18,
+            "Server": "FR4",
+            "Map": "Bl0od-Dens10"
+        },
+        {
+            "count": 1,
+            "quests": "0",
+            "TS": "2022-04-26 18:17:07",
+            "T": 1140.98,
+            "Server": "6",
+            "Map": "Bl0od4Anni"
+        },
+        {
+            "count": 1,
+            "quests": "0",
+            "TS": "2022-01-25 11:02:59",
+            "T": 1396,
+            "Server": "DE18",
+            "Map": "Bl0od4Isi"
+        },
+        {
+            "count": 1,
+            "quests": "0",
+            "TS": "2022-03-18 12:22:50",
+            "T": 231.02,
+            "Server": "2",
+            "Map": "Bl0od4Zant"
+        },
+        {
+            "count": 1,
+            "quests": "0",
+            "TS": "2022-03-11 20:18:36",
+            "T": 301.12,
+            "Server": "24",
+            "Map": "Boardwalk"
+        },
+        {
+            "count": 1,
+            "quests": "0",
+            "TS": "2022-01-17 20:47:37",
+            "T": 276.28,
+            "Server": "PL1",
+            "Map": "BumM2"
+        },
+        {
+            "count": 3,
+            "quests": "0",
+            "TS": "2022-03-31 12:16:26",
+            "T": 1077.74,
+            "Server": "2",
+            "Map": "CGores"
+        },
+        {
+            "count": 2,
+            "quests": "0",
+            "TS": "2022-03-23 11:13:26",
+            "T": 1770.92,
+            "Server": "2",
+            "Map": "CGores_2"
+        },
+        {
+            "count": 20,
+            "quests": "0",
+            "TS": "2022-04-25 14:34:37",
+            "T": 66.82,
+            "Server": "DE7",
+            "Map": "CandyLand"
+        },
+        {
+            "count": 1,
+            "quests": "0",
+            "TS": "2022-03-24 13:01:51",
+            "T": 2174.94,
+            "Server": "31",
+            "Map": "CheatMe"
+        },
+        {
+            "count": 1,
+            "quests": "0",
+            "TS": "2022-03-23 18:58:11",
+            "T": 1060.64,
+            "Server": "3",
+            "Map": "Cherry"
+        },
+        {
+            "count": 1,
+            "quests": "0",
+            "TS": "2022-04-19 11:42:03",
+            "T": 480.78,
+            "Server": "10",
+            "Map": "ChillerDragores10"
+        },
+        {
+            "count": 1,
+            "quests": "0",
+            "TS": "2021-10-25 14:00:49",
+            "T": 786.14,
+            "Server": "DE14",
+            "Map": "ChillerDragores11"
+        },
+        {
+            "count": 10,
+            "quests": "0",
+            "TS": "2022-04-01 15:32:35",
+            "T": 435.1,
+            "Server": "PL2",
+            "Map": "ChillerDragores25"
+        },
+        {
+            "count": 1,
+            "quests": "0",
+            "TS": "2021-09-11 18:47:05",
+            "T": 348.16,
+            "Server": "FR1",
+            "Map": "ChillerDragores4"
+        },
+        {
+            "count": 2,
+            "quests": "0",
+            "TS": "2022-04-26 13:10:55",
+            "T": 316.24,
+            "Server": "PL2",
+            "Map": "Ckis_4_unskilledplayer"
+        },
+        {
+            "count": 12,
+            "quests": "0",
+            "TS": "2022-04-22 19:22:40",
+            "T": 175.66,
+            "Server": "DE5",
+            "Map": "Corrupted_Easy"
+        },
+        {
+            "count": 35,
+            "quests": "0",
+            "TS": "2022-02-10 15:05:42",
+            "T": 68.82,
+            "Server": "PL2",
+            "Map": "Dandelinux"
+        },
+        {
+            "count": 1,
+            "quests": "0",
+            "TS": "2022-04-02 12:02:11",
+            "T": 255.18,
+            "Server": "112",
+            "Map": "Drakengores_1"
+        },
+        {
+            "count": 2,
+            "quests": "0",
+            "TS": "2022-03-30 18:39:38",
+            "T": 594.96,
+            "Server": "FR4",
+            "Map": "Eden"
+        },
+        {
+            "count": 1,
+            "quests": "0",
+            "TS": "2021-06-07 08:34:05",
+            "T": 1818.66,
+            "Server": "PL1",
+            "Map": "Encore"
+        },
+        {
+            "count": 2,
+            "quests": "0",
+            "TS": "2022-04-19 11:54:48",
+            "T": 469.48,
+            "Server": "DE12",
+            "Map": "Encore2"
+        },
+        {
+            "count": 1,
+            "quests": "0",
+            "TS": "2022-03-16 09:43:06",
+            "T": 1423.96,
+            "Server": "1",
+            "Map": "Estern1e"
+        },
+        {
+            "count": 1,
+            "quests": "0",
+            "TS": "2022-04-23 13:07:02",
+            "T": 904.3,
+            "Server": "11",
+            "Map": "Evening"
+        },
+        {
+            "count": 1,
+            "quests": "0",
+            "TS": "2022-01-27 15:37:54",
+            "T": 1860.38,
+            "Server": "DE5",
+            "Map": "FlipChillerDestin"
+        },
+        {
+            "count": 1,
+            "quests": "0",
+            "TS": "2022-01-27 15:03:39",
+            "T": 1226.86,
+            "Server": "DE5",
+            "Map": "FlipFeat"
+        },
+        {
+            "count": 2,
+            "quests": "0",
+            "TS": "2022-03-30 10:23:33",
+            "T": 485.36,
+            "Server": "DE1",
+            "Map": "FlipGores"
+        },
+        {
+            "count": 1,
+            "quests": "0",
+            "TS": "2022-04-24 12:49:57",
+            "T": 340.84,
+            "Server": "28",
+            "Map": "FlipLipp19"
+        },
+        {
+            "count": 1,
+            "quests": "0",
+            "TS": "2022-03-08 18:59:10",
+            "T": 1564,
+            "Server": "2",
+            "Map": "FlipLipp21"
+        },
+        {
+            "count": 1,
+            "quests": "0",
+            "TS": "2022-03-06 15:34:18",
+            "T": 1051.72,
+            "Server": "DE11",
+            "Map": "FlipLipp31"
+        },
+        {
+            "count": 1,
+            "quests": "0",
+            "TS": "2022-03-07 20:17:54",
+            "T": 855.34,
+            "Server": "FR4",
+            "Map": "FlipLipp36"
+        },
+        {
+            "count": 1,
+            "quests": "0",
+            "TS": "2022-01-06 12:39:50",
+            "T": 592.42,
+            "Server": "DE1",
+            "Map": "FlipLipp37"
+        },
+        {
+            "count": 1,
+            "quests": "0",
+            "TS": "2022-04-22 20:12:11",
+            "T": 593.5,
+            "Server": "20",
+            "Map": "FlipLipp3e"
+        },
+        {
+            "count": 2,
+            "quests": "0",
+            "TS": "2021-10-03 17:37:21",
+            "T": 663.92,
+            "Server": "FR4",
+            "Map": "FlipLipp4"
+        },
+        {
+            "count": 3,
+            "quests": "0",
+            "TS": "2022-01-05 10:03:45",
+            "T": 561.44,
+            "Server": "PL1",
+            "Map": "FlipLipp5"
+        },
+        {
+            "count": 1,
+            "quests": "0",
+            "TS": "2022-02-28 10:36:52",
+            "T": 1038.9,
+            "Server": "DE13",
+            "Map": "FlipLipp7"
+        },
+        {
+            "count": 4,
+            "quests": "0",
+            "TS": "2022-04-05 12:21:19",
+            "T": 344.7,
+            "Server": "DE13",
+            "Map": "Generic_Purple"
+        },
+        {
+            "count": 1,
+            "quests": "0",
+            "TS": "2021-11-10 21:05:35",
+            "T": 811.2,
+            "Server": "FR4",
+            "Map": "Gianth"
+        },
+        {
+            "count": 32,
+            "quests": "0",
+            "TS": "2022-04-28 11:51:37",
+            "T": 68.32,
+            "Server": "DE5",
+            "Map": "Goldie"
+        },
+        {
+            "count": 3,
+            "quests": "0",
+            "TS": "2022-04-28 14:20:31",
+            "T": 115.3,
+            "Server": "22",
+            "Map": "Greeny"
+        },
+        {
+            "count": 2,
+            "quests": "0",
+            "TS": "2022-01-21 18:37:39",
+            "T": 262.44,
+            "Server": "DE6",
+            "Map": "Greyfox"
+        },
+        {
+            "count": 2,
+            "quests": "0",
+            "TS": "2022-04-04 12:26:12",
+            "T": 1306.84,
+            "Server": "RU8",
+            "Map": "Gridwyn8"
+        },
+        {
+            "count": 1,
+            "quests": "0",
+            "TS": "2021-12-07 10:21:36",
+            "T": 2049.68,
+            "Server": "DE2",
+            "Map": "Grieta"
+        },
+        {
+            "count": 3,
+            "quests": "0",
+            "TS": "2022-04-10 14:39:34",
+            "T": 201.38,
+            "Server": "PL1",
+            "Map": "HeyBzw"
+        },
+        {
+            "count": 3,
+            "quests": "0",
+            "TS": "2022-04-08 11:40:31",
+            "T": 530.76,
+            "Server": "PL2",
+            "Map": "HeyTux2"
+        },
+        {
+            "count": 6,
+            "quests": "0",
+            "TS": "2022-04-30 20:19:34",
+            "T": 272.26,
+            "Server": "PL1",
+            "Map": "HeyTux4"
+        },
+        {
+            "count": 2,
+            "quests": "0",
+            "TS": "2022-04-20 09:48:14",
+            "T": 903.66,
+            "Server": "DE6",
+            "Map": "HeyTux5"
+        },
+        {
+            "count": 1,
+            "quests": "0",
+            "TS": "2022-03-08 21:22:52",
+            "T": 360.54,
+            "Server": "9",
+            "Map": "Humik4Alea"
+        },
+        {
+            "count": 24,
+            "quests": "0",
+            "TS": "2022-03-04 15:09:52",
+            "T": 91.34,
+            "Server": "GE1",
+            "Map": "Icebreaker"
+        },
+        {
+            "count": 1,
+            "quests": "0",
+            "TS": "2021-10-24 11:52:16",
+            "T": 1237,
+            "Server": "DE1",
+            "Map": "Im_Climb_2"
+        },
+        {
+            "count": 1,
+            "quests": "0",
+            "TS": "2022-01-11 21:47:17",
+            "T": 3395.88,
+            "Server": "DE18",
+            "Map": "InkTerston1"
+        },
+        {
+            "count": 2,
+            "quests": "0",
+            "TS": "2022-03-04 16:16:02",
+            "T": 1536.48,
+            "Server": "FR3",
+            "Map": "Just_Gores9"
+        },
+        {
+            "count": 2,
+            "quests": "0",
+            "TS": "2022-03-26 09:20:14",
+            "T": 198.06,
+            "Server": "DE13",
+            "Map": "Just_TeE3"
+        },
+        {
+            "count": 1,
+            "quests": "0",
+            "TS": "2021-09-23 17:41:43",
+            "T": 507.8,
+            "Server": "DE3",
+            "Map": "Kero-Gores1"
+        },
+        {
+            "count": 1,
+            "quests": "0",
+            "TS": "2021-10-24 15:43:47",
+            "T": 1959.94,
+            "Server": "DE15",
+            "Map": "Kero-Gores3"
+        },
+        {
+            "count": 4,
+            "quests": "0",
+            "TS": "2022-01-21 19:00:41",
+            "T": 396.88,
+            "Server": "DE3",
+            "Map": "Kero-Gores7"
+        },
+        {
+            "count": 6,
+            "quests": "0",
+            "TS": "2022-03-30 10:48:40",
+            "T": 436.72,
+            "Server": "DE9",
+            "Map": "Kero4QshaR"
+        },
+        {
+            "count": 2,
+            "quests": "0",
+            "TS": "2022-03-05 21:32:14",
+            "T": 496.28,
+            "Server": "DE2",
+            "Map": "Kero4cooper"
+        },
+        {
+            "count": 2,
+            "quests": "0",
+            "TS": "2022-02-07 20:47:26",
+            "T": 307.16,
+            "Server": "FR1",
+            "Map": "Knight1e"
+        },
+        {
+            "count": 1,
+            "quests": "0",
+            "TS": "2021-11-04 19:35:47",
+            "T": 1454.02,
+            "Server": "DE13",
+            "Map": "KoGHub"
+        },
+        {
+            "count": 10,
+            "quests": "0",
+            "TS": "2022-04-27 16:15:32",
+            "T": 88.66,
+            "Server": "PL2",
+            "Map": "Lilac"
+        },
+        {
+            "count": 1,
+            "quests": "0",
+            "TS": "2022-03-30 14:06:07",
+            "T": 1249.2,
+            "Server": "16",
+            "Map": "Lionheart"
+        },
+        {
+            "count": 6,
+            "quests": "0",
+            "TS": "2022-03-03 13:39:24",
+            "T": 192.58,
+            "Server": "DE16",
+            "Map": "MATTE"
+        },
+        {
+            "count": 1,
+            "quests": "0",
+            "TS": "2022-04-19 11:25:04",
+            "T": 498.48,
+            "Server": "10",
+            "Map": "Mechanica"
+        },
+        {
+            "count": 12,
+            "quests": "0",
+            "TS": "2022-03-01 12:26:51",
+            "T": 277.06,
+            "Server": "PL1",
+            "Map": "MikuEasy"
+        },
+        {
+            "count": 1,
+            "quests": "0",
+            "TS": "2022-04-06 11:13:59",
+            "T": 631.42,
+            "Server": "23",
+            "Map": "MinTurquoise"
+        },
+        {
+            "count": 3,
+            "quests": "0",
+            "TS": "2022-03-13 18:17:29",
+            "T": 875.56,
+            "Server": "DE11",
+            "Map": "Minimalist1"
+        },
+        {
+            "count": 1,
+            "quests": "0",
+            "TS": "2022-03-01 20:19:38",
+            "T": 900.02,
+            "Server": "DE15",
+            "Map": "Mixi4RaiNy"
+        },
+        {
+            "count": 1,
+            "quests": "0",
+            "TS": "2021-09-30 19:29:39",
+            "T": 316.02,
+            "Server": "PL2",
+            "Map": "MyStery"
+        },
+        {
+            "count": 4,
+            "quests": "0",
+            "TS": "2022-02-19 15:27:36",
+            "T": 464.44,
+            "Server": "DE8",
+            "Map": "NealsonSpeedy"
+        },
+        {
+            "count": 24,
+            "quests": "0",
+            "TS": "2022-03-26 13:57:56",
+            "T": 162.4,
+            "Server": "PL1",
+            "Map": "Nighthawk"
+        },
+        {
+            "count": 1,
+            "quests": "0",
+            "TS": "2022-03-26 10:47:02",
+            "T": 1258.82,
+            "Server": "1",
+            "Map": "NoxiBoxi"
+        },
+        {
+            "count": 1,
+            "quests": "0",
+            "TS": "2022-03-29 18:40:55",
+            "T": 3856.64,
+            "Server": "111",
+            "Map": "Nyanto4Graves"
+        },
+        {
+            "count": 1,
+            "quests": "0",
+            "TS": "2022-01-28 20:15:53",
+            "T": 391.86,
+            "Server": "PL2",
+            "Map": "OldSchool2"
+        },
+        {
+            "count": 1,
+            "quests": "0",
+            "TS": "2021-09-21 12:57:59",
+            "T": 335.48,
+            "Server": "DE6",
+            "Map": "Panik4Shero"
+        },
+        {
+            "count": 1,
+            "quests": "0",
+            "TS": "2022-01-30 20:53:12",
+            "T": 2963.96,
+            "Server": "DE5",
+            "Map": "Peuma"
+        },
+        {
+            "count": 26,
+            "quests": "0",
+            "TS": "2022-03-10 19:30:30",
+            "T": 196.72,
+            "Server": "DE6",
+            "Map": "Planetux"
+        },
+        {
+            "count": 1,
+            "quests": "0",
+            "TS": "2021-12-04 20:12:36",
+            "T": 747.14,
+            "Server": "DE4",
+            "Map": "Pup2"
+        },
+        {
+            "count": 1,
+            "quests": "0",
+            "TS": "2021-11-13 12:37:22",
+            "T": 555.56,
+            "Server": "DE3",
+            "Map": "Pup3"
+        },
+        {
+            "count": 2,
+            "quests": "0",
+            "TS": "2022-02-21 21:00:03",
+            "T": 263.68,
+            "Server": "DE13",
+            "Map": "Pup4"
+        },
+        {
+            "count": 4,
+            "quests": "0",
+            "TS": "2022-04-30 18:47:07",
+            "T": 701.08,
+            "Server": "PL3",
+            "Map": "Q-Aip-Gores"
+        },
+        {
+            "count": 1,
+            "quests": "0",
+            "TS": "2021-10-28 12:25:16",
+            "T": 2162.92,
+            "Server": "DE2",
+            "Map": "Q-Aip-Gores2"
+        },
+        {
+            "count": 1,
+            "quests": "0",
+            "TS": "2022-03-01 16:23:03",
+            "T": 482.94,
+            "Server": "DE14",
+            "Map": "Q-Aip-Gores6"
+        },
+        {
+            "count": 2,
+            "quests": "0",
+            "TS": "2021-12-08 11:41:47",
+            "T": 399.7,
+            "Server": "PL3",
+            "Map": "Q-Aip-Gores8"
+        },
+        {
+            "count": 7,
+            "quests": "0",
+            "TS": "2022-04-28 12:13:22",
+            "T": 147.6,
+            "Server": "PL1",
+            "Map": "Q-Easy1"
+        },
+        {
+            "count": 10,
+            "quests": "0",
+            "TS": "2022-03-30 07:29:01",
+            "T": 115.88,
+            "Server": "FR1",
+            "Map": "Q-Easy2"
+        },
+        {
+            "count": 1,
+            "quests": "0",
+            "TS": "2022-03-14 12:31:49",
+            "T": 386.54,
+            "Server": "19",
+            "Map": "Q-Gores3"
+        },
+        {
+            "count": 10,
+            "quests": "0",
+            "TS": "2022-04-22 19:43:25",
+            "T": 208.34,
+            "Server": "DE5",
+            "Map": "QuickOne"
+        },
+        {
+            "count": 1,
+            "quests": "0",
+            "TS": "2022-05-01 17:17:39",
+            "T": 630.24,
+            "Server": "21",
+            "Map": "Rei_N_Sd030"
+        },
+        {
+            "count": 1,
+            "quests": "0",
+            "TS": "2022-03-30 13:41:13",
+            "T": 395.12,
+            "Server": "16",
+            "Map": "RuskiFlip"
+        },
+        {
+            "count": 1,
+            "quests": "0",
+            "TS": "2021-11-17 21:05:13",
+            "T": 555.72,
+            "Server": "PL2",
+            "Map": "RyuGore1"
+        },
+        {
+            "count": 1,
+            "quests": "0",
+            "TS": "2022-04-04 06:31:50",
+            "T": 286.44,
+            "Server": "109",
+            "Map": "SEMI"
+        },
+        {
+            "count": 5,
+            "quests": "0",
+            "TS": "2022-03-08 13:05:17",
+            "T": 232.44,
+            "Server": "DE5",
+            "Map": "Sandy_Cave"
+        },
+        {
+            "count": 4,
+            "quests": "0",
+            "TS": "2022-05-03 20:03:05",
+            "T": 445.44,
+            "Server": "DE4",
+            "Map": "Sapphire"
+        },
+        {
+            "count": 1,
+            "quests": "0",
+            "TS": "2021-12-20 10:38:16",
+            "T": 945.42,
+            "Server": "DE10",
+            "Map": "Shadow_Gores"
+        },
+        {
+            "count": 1,
+            "quests": "0",
+            "TS": "2022-04-26 20:23:38",
+            "T": 1905.8,
+            "Server": "27",
+            "Map": "Shyzo4Cecily"
+        },
+        {
+            "count": 17,
+            "quests": "0",
+            "TS": "2022-03-26 16:45:26",
+            "T": 130.38,
+            "Server": "PL3",
+            "Map": "ShyzoEZ-1"
+        },
+        {
+            "count": 8,
+            "quests": "0",
+            "TS": "2022-03-07 14:49:46",
+            "T": 241.98,
+            "Server": "PL3",
+            "Map": "Spitfire"
+        },
+        {
+            "count": 8,
+            "quests": "0",
+            "TS": "2022-03-23 16:05:11",
+            "T": 136.94,
+            "Server": "DE1",
+            "Map": "Terran"
+        },
+        {
+            "count": 2,
+            "quests": "0",
+            "TS": "2022-01-22 11:51:41",
+            "T": 393.26,
+            "Server": "DE2",
+            "Map": "Through_the_Dust"
+        },
+        {
+            "count": 6,
+            "quests": "0",
+            "TS": "2022-02-06 11:41:20",
+            "T": 263.8,
+            "Server": "DE5",
+            "Map": "Tux4Rookies"
+        },
+        {
+            "count": 1,
+            "quests": "0",
+            "TS": "2021-11-13 17:33:05",
+            "T": 562.36,
+            "Server": "DE10",
+            "Map": "Tuxcana"
+        },
+        {
+            "count": 10,
+            "quests": "0",
+            "TS": "2022-03-17 17:06:46",
+            "T": 73.9,
+            "Server": "FR2",
+            "Map": "VampEz1"
+        },
+        {
+            "count": 1,
+            "quests": "0",
+            "TS": "2022-03-06 11:11:18",
+            "T": 953.3,
+            "Server": "DE5",
+            "Map": "Vampyrali2"
+        },
+        {
+            "count": 1,
+            "quests": "0",
+            "TS": "2022-05-01 14:36:13",
+            "T": 736.48,
+            "Server": "7",
+            "Map": "Vampyrali3"
+        },
+        {
+            "count": 3,
+            "quests": "0",
+            "TS": "2022-05-03 10:09:53",
+            "T": 369.68,
+            "Server": "PL2",
+            "Map": "Wintux"
+        },
+        {
+            "count": 1,
+            "quests": "0",
+            "TS": "2022-04-02 11:14:47",
+            "T": 193.96,
+            "Server": "25",
+            "Map": "Yo4WojMen"
+        },
+        {
+            "count": 2,
+            "quests": "0",
+            "TS": "2022-04-12 13:03:55",
+            "T": 2746.96,
+            "Server": "DE4",
+            "Map": "Yo5"
+        },
+        {
+            "count": 1,
+            "quests": "0",
+            "TS": "2022-01-07 18:11:22",
+            "T": 1505.14,
+            "Server": "DE14",
+            "Map": "Yo8"
+        },
+        {
+            "count": 2,
+            "quests": "0",
+            "TS": "2022-03-20 16:42:30",
+            "T": 1751.7,
+            "Server": "DE10",
+            "Map": "YoJustTeE"
+        },
+        {
+            "count": 2,
+            "quests": "0",
+            "TS": "2022-05-01 17:03:38",
+            "T": 481.38,
+            "Server": "6",
+            "Map": "ZeroSeven"
+        },
+        {
+            "count": 1,
+            "quests": "0",
+            "TS": "2022-04-02 11:43:18",
+            "T": 275.06,
+            "Server": "21",
+            "Map": "Zonsa4Luckuy21"
+        },
+        {
+            "count": 8,
+            "quests": "0",
+            "TS": "2021-11-16 20:26:41",
+            "T": 103,
+            "Server": "PL2",
+            "Map": "fik4Isi"
+        },
+        {
+            "count": 13,
+            "quests": "0",
+            "TS": "2022-03-17 14:12:24",
+            "T": 77.26,
+            "Server": "DE5",
+            "Map": "fik4SubLime"
+        },
+        {
+            "count": 1,
+            "quests": "0",
+            "TS": "2022-03-07 20:36:02",
+            "T": 673.1,
+            "Server": "FR4",
+            "Map": "fikbzw"
+        },
+        {
+            "count": 1,
+            "quests": "0",
+            "TS": "2022-04-09 18:32:02",
+            "T": 221.48,
+            "Server": "26",
+            "Map": "fikmesan"
+        },
+        {
+            "count": 1,
+            "quests": "0",
+            "TS": "2021-11-17 16:53:43",
+            "T": 2703.32,
+            "Server": "DE5",
+            "Map": "fikvie"
+        },
+        {
+            "count": 2,
+            "quests": "0",
+            "TS": "2022-03-16 19:33:31",
+            "T": 271.4,
+            "Server": "102",
+            "Map": "nevergores4"
+        },
+        {
+            "count": 1,
+            "quests": "0",
+            "TS": "2022-04-09 15:17:11",
+            "T": 929.94,
+            "Server": "18",
+            "Map": "sd004_NIghtLIfe"
+        },
+        {
+            "count": 1,
+            "quests": "0",
+            "TS": "2022-01-28 13:46:54",
+            "T": 965.98,
+            "Server": "DE11",
+            "Map": "splith"
+        },
+        {
+            "count": 1,
+            "quests": "0",
+            "TS": "2022-03-10 11:45:30",
+            "T": 815.04,
+            "Server": "6",
+            "Map": "tyrone4fretardo"
+        },
+        {
+            "count": 1,
+            "quests": "0",
+            "TS": "2022-03-27 18:03:31",
+            "T": 647.84,
+            "Server": "109",
+            "Map": "za1e"
+        }
+    ],
+    "unfinishedMaps": [
+        {
+            "Map": "004"
+        },
+        {
+            "Map": "007"
+        },
+        {
+            "Map": "008"
+        },
+        {
+            "Map": "012"
+        },
+        {
+            "Map": "069"
+        },
+        {
+            "Map": "0Percent"
+        },
+        {
+            "Map": "333"
+        },
+        {
+            "Map": "4Apfelsaft"
+        },
+        {
+            "Map": "ACID"
+        },
+        {
+            "Map": "Abyss"
+        },
+        {
+            "Map": "Action"
+        },
+        {
+            "Map": "ActionHallas"
+        },
+        {
+            "Map": "Aip-Hardcores"
+        },
+        {
+            "Map": "AipFlip"
+        },
+        {
+            "Map": "Alternate"
+        },
+        {
+            "Map": "Amol1"
+        },
+        {
+            "Map": "Anagrama"
+        },
+        {
+            "Map": "Angeldust"
+        },
+        {
+            "Map": "Angeldust2"
+        },
+        {
+            "Map": "Angeldust3"
+        },
+        {
+            "Map": "Aqua"
+        },
+        {
+            "Map": "Astralyca"
+        },
+        {
+            "Map": "BHRX-Competition"
+        },
+        {
+            "Map": "BRUME"
+        },
+        {
+            "Map": "Balada"
+        },
+        {
+            "Map": "Beam"
+        },
+        {
+            "Map": "Beyblade"
+        },
+        {
+            "Map": "BitLand"
+        },
+        {
+            "Map": "Bl0od4Maxe"
+        },
+        {
+            "Map": "Bl0od4Miku"
+        },
+        {
+            "Map": "Bl0od4Waschi"
+        },
+        {
+            "Map": "Bl0odDens5"
+        },
+        {
+            "Map": "Bl0odDens7"
+        },
+        {
+            "Map": "Bl0odFlip"
+        },
+        {
+            "Map": "Blackwolf"
+        },
+        {
+            "Map": "Blasphemy"
+        },
+        {
+            "Map": "BlueMoon"
+        },
+        {
+            "Map": "Bomb_World"
+        },
+        {
+            "Map": "Bomb_World_2"
+        },
+        {
+            "Map": "Brexamus"
+        },
+        {
+            "Map": "Bubbly1"
+        },
+        {
+            "Map": "CTF_Gores"
+        },
+        {
+            "Map": "Caminata"
+        },
+        {
+            "Map": "CastleMania"
+        },
+        {
+            "Map": "Castlicca1"
+        },
+        {
+            "Map": "Catalan_Aim"
+        },
+        {
+            "Map": "Caverna"
+        },
+        {
+            "Map": "Childs3e"
+        },
+        {
+            "Map": "ChillerDragon4Jessica"
+        },
+        {
+            "Map": "ChillerDragores"
+        },
+        {
+            "Map": "ChillerDragores12"
+        },
+        {
+            "Map": "ChillerDragores16"
+        },
+        {
+            "Map": "ChillerDragores18"
+        },
+        {
+            "Map": "ChillerDragores20"
+        },
+        {
+            "Map": "ChillerDragores23"
+        },
+        {
+            "Map": "ChillerDragores24"
+        },
+        {
+            "Map": "ChillerDragores26"
+        },
+        {
+            "Map": "ChillerDragores7"
+        },
+        {
+            "Map": "Choinka"
+        },
+        {
+            "Map": "Citadel"
+        },
+        {
+            "Map": "CkiS1"
+        },
+        {
+            "Map": "CkiS2"
+        },
+        {
+            "Map": "CkiS4Juicy"
+        },
+        {
+            "Map": "CkiSNox1"
+        },
+        {
+            "Map": "CkiS_4_CLow"
+        },
+        {
+            "Map": "CkiS_4_Jimmy"
+        },
+        {
+            "Map": "CkiS_4_Livos"
+        },
+        {
+            "Map": "CkiS_4_MonkeyDream"
+        },
+        {
+            "Map": "CkiS_4_Samu"
+        },
+        {
+            "Map": "CkiS_4_effect"
+        },
+        {
+            "Map": "CkiSbzw1"
+        },
+        {
+            "Map": "CkiSzale"
+        },
+        {
+            "Map": "CkisFlip"
+        },
+        {
+            "Map": "CkisFlip2"
+        },
+        {
+            "Map": "CkisTerston1"
+        },
+        {
+            "Map": "Clean"
+        },
+        {
+            "Map": "ColdNight"
+        },
+        {
+            "Map": "Conchetumare_X"
+        },
+        {
+            "Map": "Connerics"
+        },
+        {
+            "Map": "Cooldown_by_Shyzo"
+        },
+        {
+            "Map": "Cooper1"
+        },
+        {
+            "Map": "Corazon4Drakenmake"
+        },
+        {
+            "Map": "Corazon4Ym2"
+        },
+        {
+            "Map": "Corazon4caroLin"
+        },
+        {
+            "Map": "Corazon4himself"
+        },
+        {
+            "Map": "Corazon4maxrider2"
+        },
+        {
+            "Map": "Corrupted"
+        },
+        {
+            "Map": "CrackedMoon"
+        },
+        {
+            "Map": "Crispy4Yoin"
+        },
+        {
+            "Map": "Danil4Syltoox"
+        },
+        {
+            "Map": "DarkGen"
+        },
+        {
+            "Map": "DarkKitty"
+        },
+        {
+            "Map": "Dawn"
+        },
+        {
+            "Map": "DeadlyPath"
+        },
+        {
+            "Map": "Deceived"
+        },
+        {
+            "Map": "DeepMadness"
+        },
+        {
+            "Map": "Deluxe"
+        },
+        {
+            "Map": "DesertQuest"
+        },
+        {
+            "Map": "Destin2"
+        },
+        {
+            "Map": "Doppel"
+        },
+        {
+            "Map": "Doumed"
+        },
+        {
+            "Map": "Dream"
+        },
+        {
+            "Map": "Dreamland"
+        },
+        {
+            "Map": "DummyPhantom"
+        },
+        {
+            "Map": "DuskyDrop"
+        },
+        {
+            "Map": "E4RG"
+        },
+        {
+            "Map": "Eating_Hooks"
+        },
+        {
+            "Map": "Encore3e"
+        },
+        {
+            "Map": "Encore4e"
+        },
+        {
+            "Map": "Entitres"
+        },
+        {
+            "Map": "Ephemeral"
+        },
+        {
+            "Map": "Erys"
+        },
+        {
+            "Map": "Escape"
+        },
+        {
+            "Map": "Escape2"
+        },
+        {
+            "Map": "Etuor"
+        },
+        {
+            "Map": "EvilSunset"
+        },
+        {
+            "Map": "Exorcism"
+        },
+        {
+            "Map": "FalltimeSunset"
+        },
+        {
+            "Map": "Flamingu"
+        },
+        {
+            "Map": "Flip420"
+        },
+        {
+            "Map": "Flip4Benny"
+        },
+        {
+            "Map": "Flip4Bonny"
+        },
+        {
+            "Map": "Flip4Busted"
+        },
+        {
+            "Map": "Flip4Crack"
+        },
+        {
+            "Map": "Flip4Hakurei"
+        },
+        {
+            "Map": "Flip4Krumplee"
+        },
+        {
+            "Map": "Flip4Samo"
+        },
+        {
+            "Map": "Flip4Skiusep"
+        },
+        {
+            "Map": "Flip4U"
+        },
+        {
+            "Map": "Flip4feat"
+        },
+        {
+            "Map": "FlipBzw"
+        },
+        {
+            "Map": "FlipBzw2"
+        },
+        {
+            "Map": "FlipDragonYo"
+        },
+        {
+            "Map": "FlipHoffi"
+        },
+        {
+            "Map": "FlipLipp"
+        },
+        {
+            "Map": "FlipLipp10e"
+        },
+        {
+            "Map": "FlipLipp11"
+        },
+        {
+            "Map": "FlipLipp12"
+        },
+        {
+            "Map": "FlipLipp13"
+        },
+        {
+            "Map": "FlipLipp14"
+        },
+        {
+            "Map": "FlipLipp15"
+        },
+        {
+            "Map": "FlipLipp16"
+        },
+        {
+            "Map": "FlipLipp17"
+        },
+        {
+            "Map": "FlipLipp2"
+        },
+        {
+            "Map": "FlipLipp23"
+        },
+        {
+            "Map": "FlipLipp25"
+        },
+        {
+            "Map": "FlipLipp26"
+        },
+        {
+            "Map": "FlipLipp27"
+        },
+        {
+            "Map": "FlipLipp28"
+        },
+        {
+            "Map": "FlipLipp29"
+        },
+        {
+            "Map": "FlipLipp2e"
+        },
+        {
+            "Map": "FlipLipp30"
+        },
+        {
+            "Map": "FlipLipp32"
+        },
+        {
+            "Map": "FlipLipp33"
+        },
+        {
+            "Map": "FlipLipp34"
+        },
+        {
+            "Map": "FlipLipp35"
+        },
+        {
+            "Map": "FlipLipp38"
+        },
+        {
+            "Map": "FlipLipp6"
+        },
+        {
+            "Map": "FlipLipp8e"
+        },
+        {
+            "Map": "FlipLipp9e"
+        },
+        {
+            "Map": "FlipNeo4Chile"
+        },
+        {
+            "Map": "FlippLipp6"
+        },
+        {
+            "Map": "Frosty"
+        },
+        {
+            "Map": "Fujito"
+        },
+        {
+            "Map": "Genex4Drakenmake"
+        },
+        {
+            "Map": "Gesteinskoernchen"
+        },
+        {
+            "Map": "GoldDigga"
+        },
+        {
+            "Map": "Goldiensane"
+        },
+        {
+            "Map": "GooreZ"
+        },
+        {
+            "Map": "Gorace"
+        },
+        {
+            "Map": "Gores-Dream1"
+        },
+        {
+            "Map": "Granulos_De_Roca"
+        },
+        {
+            "Map": "GreenMoon"
+        },
+        {
+            "Map": "GreeniRedFight"
+        },
+        {
+            "Map": "GreyZ"
+        },
+        {
+            "Map": "Gridwyn2"
+        },
+        {
+            "Map": "Gridwyn3"
+        },
+        {
+            "Map": "Gridwyn4"
+        },
+        {
+            "Map": "Gridwyn5"
+        },
+        {
+            "Map": "Gridwyn6"
+        },
+        {
+            "Map": "Gridwyn7"
+        },
+        {
+            "Map": "Ground"
+        },
+        {
+            "Map": "GuessRocks"
+        },
+        {
+            "Map": "Hawerdummy"
+        },
+        {
+            "Map": "HeatUp_by_Shyzo"
+        },
+        {
+            "Map": "Heavens_End"
+        },
+        {
+            "Map": "Hendrix4Xoxo"
+        },
+        {
+            "Map": "Henesys"
+        },
+        {
+            "Map": "HeyTux"
+        },
+        {
+            "Map": "HeyTux3"
+        },
+        {
+            "Map": "HeyTux6"
+        },
+        {
+            "Map": "HiddenIsland"
+        },
+        {
+            "Map": "Himalaya"
+        },
+        {
+            "Map": "IceBox"
+        },
+        {
+            "Map": "Im_Climb5"
+        },
+        {
+            "Map": "Imaginary_Voyage"
+        },
+        {
+            "Map": "ImagineThePain"
+        },
+        {
+            "Map": "ImpelDown"
+        },
+        {
+            "Map": "Impossible"
+        },
+        {
+            "Map": "Impossible_2"
+        },
+        {
+            "Map": "Improvise"
+        },
+        {
+            "Map": "Inception"
+        },
+        {
+            "Map": "Insanious"
+        },
+        {
+            "Map": "Interstellar"
+        },
+        {
+            "Map": "IntoTheFog"
+        },
+        {
+            "Map": "Jebeto-Gores"
+        },
+        {
+            "Map": "JoKGores"
+        },
+        {
+            "Map": "Jore4NANAMAR"
+        },
+        {
+            "Map": "JustCommunity"
+        },
+        {
+            "Map": "JustTeE4JustNoob"
+        },
+        {
+            "Map": "Just_Gores7"
+        },
+        {
+            "Map": "Just_Gores8"
+        },
+        {
+            "Map": "Just_Team1"
+        },
+        {
+            "Map": "Kero-Gores4"
+        },
+        {
+            "Map": "Kero-Gores5"
+        },
+        {
+            "Map": "Kero-Gores6"
+        },
+        {
+            "Map": "KeroDummy"
+        },
+        {
+            "Map": "Kickmix"
+        },
+        {
+            "Map": "King_of_Mountains"
+        },
+        {
+            "Map": "Knutz1"
+        },
+        {
+            "Map": "KogWatch"
+        },
+        {
+            "Map": "KrumpleeLand"
+        },
+        {
+            "Map": "LUNATIC"
+        },
+        {
+            "Map": "LamaBro"
+        },
+        {
+            "Map": "LikeAFlo"
+        },
+        {
+            "Map": "LittleCandles"
+        },
+        {
+            "Map": "LuLu-Gores"
+        },
+        {
+            "Map": "MOJITO"
+        },
+        {
+            "Map": "Madriguera"
+        },
+        {
+            "Map": "Mainiac"
+        },
+        {
+            "Map": "Marceline"
+        },
+        {
+            "Map": "Meliogor"
+        },
+        {
+            "Map": "Meliogor2"
+        },
+        {
+            "Map": "Miiep4Miezii"
+        },
+        {
+            "Map": "Miku4Lama"
+        },
+        {
+            "Map": "Miku4MonkeyDream"
+        },
+        {
+            "Map": "MikuGores"
+        },
+        {
+            "Map": "Mine"
+        },
+        {
+            "Map": "Miniature_Fantasy"
+        },
+        {
+            "Map": "Minimalist2"
+        },
+        {
+            "Map": "Mixi1"
+        },
+        {
+            "Map": "Mixi2"
+        },
+        {
+            "Map": "Mixi3"
+        },
+        {
+            "Map": "Mixi4"
+        },
+        {
+            "Map": "Mixi4KKUBA102"
+        },
+        {
+            "Map": "Mixi4Migget"
+        },
+        {
+            "Map": "Mixi4Miku"
+        },
+        {
+            "Map": "Mixi4isen"
+        },
+        {
+            "Map": "Monochromik"
+        },
+        {
+            "Map": "MoonFlip"
+        },
+        {
+            "Map": "MorfeusGrydwin"
+        },
+        {
+            "Map": "Muay_Thai"
+        },
+        {
+            "Map": "N4B"
+        },
+        {
+            "Map": "N4D"
+        },
+        {
+            "Map": "N4M"
+        },
+        {
+            "Map": "N4T"
+        },
+        {
+            "Map": "NareemKero"
+        },
+        {
+            "Map": "NealsonCkiS1"
+        },
+        {
+            "Map": "NealsonCkiS5"
+        },
+        {
+            "Map": "NealsonCkiS8"
+        },
+        {
+            "Map": "Nertato4Gummi"
+        },
+        {
+            "Map": "Neverland"
+        },
+        {
+            "Map": "Noe1"
+        },
+        {
+            "Map": "Nox1"
+        },
+        {
+            "Map": "Nox2"
+        },
+        {
+            "Map": "Nox4Flo"
+        },
+        {
+            "Map": "Nox4Monkey"
+        },
+        {
+            "Map": "NoxFlip"
+        },
+        {
+            "Map": "Nyanto4FlameKing"
+        },
+        {
+            "Map": "Nyanto4Mamax"
+        },
+        {
+            "Map": "Nyanto4Xola"
+        },
+        {
+            "Map": "NyantoDummy"
+        },
+        {
+            "Map": "NyantoFT"
+        },
+        {
+            "Map": "NyantoFY"
+        },
+        {
+            "Map": "Oasis"
+        },
+        {
+            "Map": "Oldschool"
+        },
+        {
+            "Map": "Oldschool3"
+        },
+        {
+            "Map": "Omesurion4Luckuy21"
+        },
+        {
+            "Map": "Omesurion4Shayze"
+        },
+        {
+            "Map": "Omesurion4cagent"
+        },
+        {
+            "Map": "Ominous"
+        },
+        {
+            "Map": "Otherworld"
+        },
+        {
+            "Map": "OutOfTheSky"
+        },
+        {
+            "Map": "Outer"
+        },
+        {
+            "Map": "Panik-Gores"
+        },
+        {
+            "Map": "Paradise_Island"
+        },
+        {
+            "Map": "Pastelirycs"
+        },
+        {
+            "Map": "PatrickStar"
+        },
+        {
+            "Map": "PeaceDeath"
+        },
+        {
+            "Map": "Pepino"
+        },
+        {
+            "Map": "Phoenix"
+        },
+        {
+            "Map": "Piece_of_Sheet"
+        },
+        {
+            "Map": "Pillars"
+        },
+        {
+            "Map": "Pokemon_Gen1"
+        },
+        {
+            "Map": "Polar"
+        },
+        {
+            "Map": "Pop"
+        },
+        {
+            "Map": "Pop2"
+        },
+        {
+            "Map": "Pop3e"
+        },
+        {
+            "Map": "Possession"
+        },
+        {
+            "Map": "Protokol1"
+        },
+        {
+            "Map": "Protokol3"
+        },
+        {
+            "Map": "Protokol4"
+        },
+        {
+            "Map": "Pup1e"
+        },
+        {
+            "Map": "Pup5e"
+        },
+        {
+            "Map": "PupRed1e"
+        },
+        {
+            "Map": "PurpleStardust"
+        },
+        {
+            "Map": "Q-Adventure"
+        },
+        {
+            "Map": "Q-Aip-Gores3"
+        },
+        {
+            "Map": "Q-Aip-Gores4"
+        },
+        {
+            "Map": "Q-Aip-Gores5"
+        },
+        {
+            "Map": "Q-Aip-Gores7"
+        },
+        {
+            "Map": "Q-Dummy-Drag1"
+        },
+        {
+            "Map": "Q-Dummy-Drag2"
+        },
+        {
+            "Map": "Q-Gores-Unhook"
+        },
+        {
+            "Map": "Q-Hook"
+        },
+        {
+            "Map": "Q-KoG-1"
+        },
+        {
+            "Map": "Q-KoG-2"
+        },
+        {
+            "Map": "Q-KoG-3"
+        },
+        {
+            "Map": "Q-KoG-4"
+        },
+        {
+            "Map": "Q-KoG-5"
+        },
+        {
+            "Map": "Q-KoG-Portal"
+        },
+        {
+            "Map": "Q-Story"
+        },
+        {
+            "Map": "Q-move"
+        },
+        {
+            "Map": "Q-tele"
+        },
+        {
+            "Map": "QF-Competition"
+        },
+        {
+            "Map": "QF-Competition2"
+        },
+        {
+            "Map": "QF-Gores"
+        },
+        {
+            "Map": "QM-Gores"
+        },
+        {
+            "Map": "R_dventure"
+        },
+        {
+            "Map": "RaiMee"
+        },
+        {
+            "Map": "RaiNy10"
+        },
+        {
+            "Map": "RaiNy4Ink"
+        },
+        {
+            "Map": "RaiNyMore"
+        },
+        {
+            "Map": "RaiNyMore2"
+        },
+        {
+            "Map": "RaiNyOD"
+        },
+        {
+            "Map": "RainbowRoads"
+        },
+        {
+            "Map": "Ready4Delete"
+        },
+        {
+            "Map": "RedCastle"
+        },
+        {
+            "Map": "RedCastle2"
+        },
+        {
+            "Map": "RedMoon"
+        },
+        {
+            "Map": "Rei4Omesurion"
+        },
+        {
+            "Map": "Reverberate"
+        },
+        {
+            "Map": "Ring_of_Gores_III"
+        },
+        {
+            "Map": "RingofGores"
+        },
+        {
+            "Map": "RingofGores2"
+        },
+        {
+            "Map": "Route"
+        },
+        {
+            "Map": "Rox"
+        },
+        {
+            "Map": "Rubnitos"
+        },
+        {
+            "Map": "RyuGore2"
+        },
+        {
+            "Map": "RyuGore3"
+        },
+        {
+            "Map": "RyuGore4"
+        },
+        {
+            "Map": "RyuGore5"
+        },
+        {
+            "Map": "SUPSANE"
+        },
+        {
+            "Map": "Sabled_Sun_1"
+        },
+        {
+            "Map": "Saturation"
+        },
+        {
+            "Map": "Scary"
+        },
+        {
+            "Map": "Screwdriver"
+        },
+        {
+            "Map": "Sheldor"
+        },
+        {
+            "Map": "Shyzo4Sasukey"
+        },
+        {
+            "Map": "Shyzo4TS"
+        },
+        {
+            "Map": "Shyzo4TheCrew"
+        },
+        {
+            "Map": "Simply_Nine"
+        },
+        {
+            "Map": "Sky_Dungeon"
+        },
+        {
+            "Map": "Skyground"
+        },
+        {
+            "Map": "SkyrelOne"
+        },
+        {
+            "Map": "SnailChan_Adventure"
+        },
+        {
+            "Map": "SoFall"
+        },
+        {
+            "Map": "SolarSystem"
+        },
+        {
+            "Map": "Sonder"
+        },
+        {
+            "Map": "SpaceJump"
+        },
+        {
+            "Map": "SpacedOut"
+        },
+        {
+            "Map": "Springlobe"
+        },
+        {
+            "Map": "Square_of_Gores"
+        },
+        {
+            "Map": "Square_of_Gores_2"
+        },
+        {
+            "Map": "Stars"
+        },
+        {
+            "Map": "Stripes"
+        },
+        {
+            "Map": "Suna_Tokei"
+        },
+        {
+            "Map": "Sura"
+        },
+        {
+            "Map": "Synergy"
+        },
+        {
+            "Map": "TRILOG1A"
+        },
+        {
+            "Map": "Teelands"
+        },
+        {
+            "Map": "Teelands_2"
+        },
+        {
+            "Map": "Teelands_3"
+        },
+        {
+            "Map": "Terston1"
+        },
+        {
+            "Map": "Terston2"
+        },
+        {
+            "Map": "Terston3"
+        },
+        {
+            "Map": "Terston4"
+        },
+        {
+            "Map": "Terston4Bzw"
+        },
+        {
+            "Map": "Terston4Ink"
+        },
+        {
+            "Map": "Terston4Tux"
+        },
+        {
+            "Map": "Terston5"
+        },
+        {
+            "Map": "Terston6"
+        },
+        {
+            "Map": "TerstonBzw"
+        },
+        {
+            "Map": "TheCube"
+        },
+        {
+            "Map": "TheForest"
+        },
+        {
+            "Map": "TheGauntlet"
+        },
+        {
+            "Map": "The_Pyra"
+        },
+        {
+            "Map": "TimeWarp"
+        },
+        {
+            "Map": "TomTom"
+        },
+        {
+            "Map": "TomTom2"
+        },
+        {
+            "Map": "TomTom3"
+        },
+        {
+            "Map": "TomTom4"
+        },
+        {
+            "Map": "TomTom5"
+        },
+        {
+            "Map": "TomTom6"
+        },
+        {
+            "Map": "TomTom7"
+        },
+        {
+            "Map": "Tomahawk"
+        },
+        {
+            "Map": "Tookies"
+        },
+        {
+            "Map": "Toxigon"
+        },
+        {
+            "Map": "Twike4Schizophrenia"
+        },
+        {
+            "Map": "Tyrone4Frozen"
+        },
+        {
+            "Map": "UNDR"
+        },
+        {
+            "Map": "Uk4"
+        },
+        {
+            "Map": "UnKnown4Grass"
+        },
+        {
+            "Map": "UnKnown4vED"
+        },
+        {
+            "Map": "Unique"
+        },
+        {
+            "Map": "UnlockTeam"
+        },
+        {
+            "Map": "Vigorously"
+        },
+        {
+            "Map": "WaLu"
+        },
+        {
+            "Map": "WarmUp_by_Shyzo"
+        },
+        {
+            "Map": "Waschlappen"
+        },
+        {
+            "Map": "Waterfall"
+        },
+        {
+            "Map": "Wats4Forbidden"
+        },
+        {
+            "Map": "WhatRemains"
+        },
+        {
+            "Map": "Whispering"
+        },
+        {
+            "Map": "WhiteMoon"
+        },
+        {
+            "Map": "Winter_rain"
+        },
+        {
+            "Map": "XmasAdventure"
+        },
+        {
+            "Map": "XmasMove"
+        },
+        {
+            "Map": "Xoxo4Hendrix"
+        },
+        {
+            "Map": "Xyz_gores"
+        },
+        {
+            "Map": "YellowMoon"
+        },
+        {
+            "Map": "Yo1"
+        },
+        {
+            "Map": "Yo10"
+        },
+        {
+            "Map": "Yo11"
+        },
+        {
+            "Map": "Yo12"
+        },
+        {
+            "Map": "Yo13"
+        },
+        {
+            "Map": "Yo2"
+        },
+        {
+            "Map": "Yo3"
+        },
+        {
+            "Map": "Yo4"
+        },
+        {
+            "Map": "Yo4Fast"
+        },
+        {
+            "Map": "Yo4Lama"
+        },
+        {
+            "Map": "Yo4Lama2"
+        },
+        {
+            "Map": "Yo6"
+        },
+        {
+            "Map": "Yo7"
+        },
+        {
+            "Map": "Yo9"
+        },
+        {
+            "Map": "YoAirm4x"
+        },
+        {
+            "Map": "YoCkiS5"
+        },
+        {
+            "Map": "YoCkis4"
+        },
+        {
+            "Map": "YoJustTee2"
+        },
+        {
+            "Map": "Yoc4crunchY"
+        },
+        {
+            "Map": "Yoc4mpampas"
+        },
+        {
+            "Map": "Yuslo4Nizzza"
+        },
+        {
+            "Map": "Yuslo4Shoyyy"
+        },
+        {
+            "Map": "YusloCkis1"
+        },
+        {
+            "Map": "ZZZ"
+        },
+        {
+            "Map": "Zerox4Busted"
+        },
+        {
+            "Map": "Zerox4Nox"
+        },
+        {
+            "Map": "Zonsa4Tyrone"
+        },
+        {
+            "Map": "Zosna"
+        },
+        {
+            "Map": "Zubr"
+        },
+        {
+            "Map": "bPls"
+        },
+        {
+            "Map": "bazawa"
+        },
+        {
+            "Map": "blim4zale"
+        },
+        {
+            "Map": "blim_Gores"
+        },
+        {
+            "Map": "bloodstone"
+        },
+        {
+            "Map": "blue_space"
+        },
+        {
+            "Map": "bubbles"
+        },
+        {
+            "Map": "bzonsw"
+        },
+        {
+            "Map": "bzw1"
+        },
+        {
+            "Map": "bzw2"
+        },
+        {
+            "Map": "bzw3"
+        },
+        {
+            "Map": "bzw4"
+        },
+        {
+            "Map": "bzw4Treefly"
+        },
+        {
+            "Map": "bzw4chile"
+        },
+        {
+            "Map": "bzw4miep"
+        },
+        {
+            "Map": "bzw4tux"
+        },
+        {
+            "Map": "bzw5"
+        },
+        {
+            "Map": "bzw7"
+        },
+        {
+            "Map": "calm"
+        },
+        {
+            "Map": "cave"
+        },
+        {
+            "Map": "corgores2"
+        },
+        {
+            "Map": "cursed"
+        },
+        {
+            "Map": "dabushes"
+        },
+        {
+            "Map": "dark"
+        },
+        {
+            "Map": "dindila"
+        },
+        {
+            "Map": "dragonexe"
+        },
+        {
+            "Map": "feat4flip"
+        },
+        {
+            "Map": "feat4juicy"
+        },
+        {
+            "Map": "feat4neo"
+        },
+        {
+            "Map": "featality"
+        },
+        {
+            "Map": "featuristic"
+        },
+        {
+            "Map": "fik4Enyltyn"
+        },
+        {
+            "Map": "fik4Kicker"
+        },
+        {
+            "Map": "fik4LemonTee"
+        },
+        {
+            "Map": "fik4bzw"
+        },
+        {
+            "Map": "fik4imp"
+        },
+        {
+            "Map": "fik4snail"
+        },
+        {
+            "Map": "fokcores"
+        },
+        {
+            "Map": "fokkonaut"
+        },
+        {
+            "Map": "ghosttown"
+        },
+        {
+            "Map": "goryx"
+        },
+        {
+            "Map": "hanh_phuc"
+        },
+        {
+            "Map": "iCe-Ice"
+        },
+        {
+            "Map": "iWebCkis1"
+        },
+        {
+            "Map": "impton"
+        },
+        {
+            "Map": "justfeat"
+        },
+        {
+            "Map": "konwic4protokol"
+        },
+        {
+            "Map": "legendary"
+        },
+        {
+            "Map": "light"
+        },
+        {
+            "Map": "lovender"
+        },
+        {
+            "Map": "meew1"
+        },
+        {
+            "Map": "meew2"
+        },
+        {
+            "Map": "meew3"
+        },
+        {
+            "Map": "meew4"
+        },
+        {
+            "Map": "mellow"
+        },
+        {
+            "Map": "midnight"
+        },
+        {
+            "Map": "nevergores3"
+        },
+        {
+            "Map": "oen1"
+        },
+        {
+            "Map": "oen2"
+        },
+        {
+            "Map": "pressure"
+        },
+        {
+            "Map": "purple_space"
+        },
+        {
+            "Map": "sakura"
+        },
+        {
+            "Map": "samo-FWYS1e"
+        },
+        {
+            "Map": "samo-FWYS2e"
+        },
+        {
+            "Map": "sd005"
+        },
+        {
+            "Map": "sharkexe"
+        },
+        {
+            "Map": "shiro1"
+        },
+        {
+            "Map": "shiro2"
+        },
+        {
+            "Map": "uk1"
+        },
+        {
+            "Map": "uk2"
+        },
+        {
+            "Map": "uk3"
+        },
+        {
+            "Map": "xRyperion"
+        },
+        {
+            "Map": "xRyperionGecko"
+        },
+        {
+            "Map": "zale4blim"
+        },
+        {
+            "Map": "zonsa_zonsa_zonsa"
+        }
+    ],
+    "fin_main": [
+        {
+            "myoutput": 28
+        }
+    ],
+    "easy_maps": [
+        {
+            "myoutput": 52
+        }
+    ],
+    "fin_mn": [
+        {
+            "myoutput": 102
+        }
+    ],
+    "main_maps": [
+        {
+            "myoutput": 286
+        }
+    ],
+    "fin_hrd": [
+        {
+            "myoutput": 0
+        }
+    ],
+    "hard_maps": [
+        {
+            "myoutput": 200
+        }
+    ],
+    "fin_ins": [
+        {
+            "myoutput": 0
+        }
+    ],
+    "ins_maps": [
+        {
+            "myoutput": 127
+        }
+    ],
+    "warnings": [],
+    "last_tee": [
+        {
+            "SkinName": "limekitty",
+            "SkinColorBody": 13303679,
+            "SkinColorFeet": 65535
+        }
+    ],
+    "time_wasted": 322748.1000000002,
+    "points_over_time": [
+        {
+            "y": 22,
+            "label": "2021-05"
+        },
+        {
+            "y": 71,
+            "label": "2021-06"
+        },
+        {
+            "y": 71,
+            "label": "2021-07"
+        },
+        {
+            "y": 81,
+            "label": "2021-08"
+        },
+        {
+            "y": 121,
+            "label": "2021-09"
+        },
+        {
+            "y": 151,
+            "label": "2021-10"
+        },
+        {
+            "y": 205,
+            "label": "2021-11"
+        },
+        {
+            "y": 239,
+            "label": "2021-12"
+        },
+        {
+            "y": 338,
+            "label": "2022-01"
+        },
+        {
+            "y": 348,
+            "label": "2022-02"
+        },
+        {
+            "y": 535,
+            "label": "2022-03"
+        },
+        {
+            "y": 615,
+            "label": "2022-04"
+        },
+        {
+            "y": 625,
+            "label": "2022-05"
+        }
+    ]
+}
