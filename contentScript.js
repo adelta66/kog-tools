@@ -16,13 +16,14 @@ function hideShowPlayerCompareBar() {
 }
 function sortTable() {
     element=this
-    const tableHeadersArray = Array.from(document.querySelector("#pills-finished").children[0].tHead.children[0].children)
-    const tableRows = document.querySelector("#pills-finished").children[0].tBodies[0].children
-    const tableRowsArray = Array.from(tableRows)
+    const table = this.closest('table')
+    const tableHeaders = Array.from(table.tHead.children[0].children)
+    const tBody = table.tBodies[0]
+    const tableRowsArray = Array.from(tBody.children)
     const colIndex = Array.from(element.parentNode.children).indexOf(element)
     const asc = (!element.classList.contains("th-sort-asc") && !element.classList.contains("th-sort-desc") ? true : !element.classList.contains("th-sort-asc"))
 
-    tableHeadersArray.forEach(header => {
+    tableHeaders.forEach(header => {
         header.classList.remove("th-sort-asc", "th-sort-desc")
     })
     element.classList.toggle("th-sort-asc", asc);
@@ -30,8 +31,11 @@ function sortTable() {
 
     function sortFunction(colIndex, asc) {
         return function (a, b) {
+            if((a.children[colIndex]==undefined)&&(b.children[colIndex]==undefined)) return 0;
+            if(a.children[colIndex]==undefined) return asc ? 1 : -1
+            if(b.children[colIndex]==undefined) return asc ? -1 : 1
 
-            if (colIndex == 0) {
+            if (a.children[colIndex].firstChild=='a') {
                 a = a.children[colIndex].children[0].innerHTML
                 b = b.children[colIndex].children[0].innerHTML
             }
@@ -57,7 +61,7 @@ function sortTable() {
         }
     }
     tableRowsArray.sort(sortFunction(colIndex, asc))
-    document.querySelector("#pills-finished > table > tbody").replaceChildren(...tableRowsArray)
+    tBody.replaceChildren(...tableRowsArray)
 
 }
 async function getPlayerData(playerName) {
@@ -94,7 +98,6 @@ Number.prototype.toHHMMSS = function () {
     return hours+':'+minutes+':'+seconds;
 }
 
-
 const websiteIsLoadedObserver = new MutationObserver(()=>{
     if(document.querySelector("#pills-finished")){
         document.querySelector("#comparePlayerDiv").style.display = 'block'
@@ -102,7 +105,10 @@ const websiteIsLoadedObserver = new MutationObserver(()=>{
     }
 })
 
+const playersSearched=[]
+
 window.onload = () => {
+
     //adds search bar on home subpage
     (() => {
         const playerSearchBarString = '<form class="form-inline" action="javascript:void(0);" id="searchFormCustom" ><div class="input-group mb-3"><input type="hidden" name="p" value="players"><input type="text" name="player" id="playerCustom" class="form-control" placeholder="Search player" aria-label="Search player" aria-describedby="basic-addon2"><div class="input-group-append"><button class="btn btn-success" type="submit">Search</button></div></div></form>'
@@ -127,8 +133,8 @@ window.onload = () => {
 
     })()
 
-    //sort finished maps table
-    const contentDivObserver = new MutationObserver(addEventHandlerToFinishedTableTr)
+    //make tables sortable
+    const contentDivObserver = new MutationObserver(addEventHandlerToTableAfterContentIsLoaded)
     contentDivObserver.observe(document.querySelector("#content"), { childList: true });
 
     
@@ -149,8 +155,11 @@ window.onload = () => {
         const form = document.querySelector("#comparePlayerForm")
         form.addEventListener("submit", () => {
             const userInput = document.querySelector("#comparePlayerInput").value.trim()
+            if(playersSearched.find(e=>e==userInput)) return
+            playersSearched.push(userInput)
+            form.querySelector("button").disabled=true
 
-            const response = getPlayerData(userInput).then(resp => {
+            getPlayerData(userInput).then(resp => {
                 resp = JSON.parse(resp.data)
                 const finishedMaps = resp.mapsFinished
                 const table = document.querySelector("#pills-finished").children[0]
@@ -176,11 +185,12 @@ window.onload = () => {
                     row.insertBefore(cell, row.children[row.children.length-2])
 
                 })
-
-
+                form.querySelector("button").disabled=false
             }, err => {
+                form.querySelector("button").disabled=false
                 console.log(err);
             })
+
 
         })
         window.addEventListener("hashchange", hideShowPlayerCompareBar);
@@ -192,16 +202,20 @@ window.onload = () => {
 
 }
 
-function addEventHandlerToFinishedTableTr(m) {
-
-    if (window.location.hash.substring(0, 10) != "#p=players") return;
-    const finishedTable = m[0].target.querySelector("#pills-finished")?.children[0]
-    if (!finishedTable) return
-
-    const tableHeaders = document.querySelector("#pills-finished").children[0].tHead.children[0].children
-
-    Array.from(tableHeaders).forEach(element => {
-
-        element.addEventListener("click", sortTable)
-    });
+function addEventHandlerToTableAfterContentIsLoaded(m) {
+    const tables = Array.from(document.querySelectorAll("table"))
+    tables.forEach(table=>{
+        if(!table.classList.contains("sortable")&&table.tHead){
+            const tableHeaders = Array.from(table.tHead.children[0].children)
+            tableHeaders.forEach(element => {
+                element.addEventListener("click", sortTable)
+            });
+            table.classList.add("sortable")
+        }
+    })
+    
+    
+    
+    
+    
 }
