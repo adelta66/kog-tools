@@ -44,6 +44,19 @@ function sortTable() {
                 b = b.children[colIndex].innerHTML
             }
 
+
+            if(tableHeaders[colIndex].innerHTML=="Difficulty"){
+                function catToNumber(category){
+                    if(category=="Easy")    return 10
+                    if(category=="Main")    return 20
+                    if(category=="Hard")    return 30
+                    if(category=="Insane")  return 40
+                    if(category=="Mod")     return 50
+                }
+                a=catToNumber(a.split(' ')[0])+a.split(' ')[1]
+                b=catToNumber(b.split(' ')[0])+b.split(' ')[1]
+            }
+
             const localeCompareOptions = { sensitivity: "accent", numeric: true }
             if(asc){
                 if(( a && !b ) || ( !a && b )){
@@ -97,6 +110,116 @@ Number.prototype.toHHMMSS = function () {
     if (seconds < 10) {seconds = "0"+seconds;}
     return hours+':'+minutes+':'+seconds;
 }
+function addColToTable(table, text){
+    const tableHeadRow = table.tHead.children[0]
+    const newCell = document.createElement("th")
+    newCell.innerHTML=text
+    newCell.addEventListener("click", sortTable)
+    tableHeadRow.appendChild(newCell)
+}
+function addCellInRow(row, text){
+    const newCell = document.createElement('td')
+    newCell.innerHTML=text;
+    row.appendChild(newCell)
+}
+
+async function getMapsData(){
+    try {
+        const mapsUrl = "https://kog.tw/get.php?p=maps&p=maps"
+        const resp = await fetch(mapsUrl)
+        const parser = new DOMParser()
+        const doc = parser.parseFromString(await resp.text(), "text/html")
+        const mapCards = Array.from(doc.querySelectorAll("div.col > div > div"))
+        const maps={}
+        mapCards.forEach(e=>{
+            const releaseDate=e.querySelector("div.text-muted.card-footer").innerHTML.trim().split(' ')[2]
+            let mapInfo={
+                category: e.querySelector("div.card-body > ul > li:nth-child(2)").innerHTML,
+                stars: e.querySelectorAll("i.bi-star-fill").length,
+                points: e.querySelector("div.card-body > ul > li:nth-child(3)").innerHTML,
+                author: e.querySelector("div.card-body > ul > li:nth-child(4)").innerHTML,
+                releaseDate:  releaseDate=="a" ? "?" : releaseDate
+            }
+            maps[e.querySelector("a > div > h4").innerHTML]=mapInfo
+        })
+        return maps        
+    } catch (error) {
+        console.log("fetch failed", error);
+    }
+}
+function addEventHandlerToTableAfterContentIsLoaded(m) {
+    const tables = Array.from(document.querySelectorAll("table"))
+    tables.forEach(table=>{
+        if(!table.classList.contains("sortable")&&table.tHead){
+            const tableHeaders = Array.from(table.tHead.children[0].children)
+            tableHeaders.forEach(element => {
+                element.addEventListener("click", sortTable)
+            });
+            table.classList.add("sortable")
+        }
+    })
+}
+function addMapInfoOnPlayerPageAfterContentIsLoaded(m){
+    const unfinishedMapsTable = document.querySelector("div#pills-unfinished > table")
+    if(!unfinishedMapsTable) return
+    const finishedMapsTable = document.querySelector("div#pills-finished > table")
+    if(!finishedMapsTable) return
+
+    getMapsData().then(maps=>{
+        //unfinished Maps
+        addColToTable(unfinishedMapsTable, "Difficulty")
+        addColToTable(unfinishedMapsTable, "Author")
+        addColToTable(unfinishedMapsTable, "Points")
+        addColToTable(unfinishedMapsTable, "Release date")
+
+        const unfinishedMapsRows = Array.from(unfinishedMapsTable.tBodies[0].children)
+        unfinishedMapsRows.forEach(row=>{
+            const mapName = row.children[0].children[0].innerHTML
+
+            const starString=(()=>{
+                const stars = maps[mapName].stars;
+                let string=""+stars; 
+                    string += ' <i class="bi bi-star-fill" style="color: orange;"></i>'
+                
+                return string
+            })()
+            addCellInRow(row, maps[mapName].category+" "+starString)
+            addCellInRow(row, maps[mapName].author)
+            addCellInRow(row, maps[mapName].points)
+            addCellInRow(row, maps[mapName].releaseDate)
+        })
+        //finished maps
+        addColToTable(finishedMapsTable, "Difficulty")
+        addColToTable(finishedMapsTable, "Author")
+        addColToTable(finishedMapsTable, "Points")
+        addColToTable(finishedMapsTable, "Release date")
+
+        const finishedMapsRows = Array.from(finishedMapsTable.tBodies[0].children)
+        finishedMapsRows.forEach(row=>{
+            const mapName = row.children[0].children[0].innerHTML
+
+            const starString=(()=>{
+                const stars = maps[mapName].stars;
+                let string=""+stars; 
+                    string += ' <i class="bi bi-star-fill" style="color: orange;"></i>'
+                
+                return string
+            })()
+            addCellInRow(row, maps[mapName].category+" "+starString)
+            addCellInRow(row, maps[mapName].author)
+            addCellInRow(row, maps[mapName].points)
+            addCellInRow(row, maps[mapName].releaseDate)
+        })
+
+
+    });
+
+
+
+    //add data to unfinishedMapsTable
+}
+
+
 
 const websiteIsLoadedObserver = new MutationObserver(()=>{
     if(document.querySelector("#pills-finished")){
@@ -137,9 +260,11 @@ window.onload = () => {
     const contentDivObserver = new MutationObserver(addEventHandlerToTableAfterContentIsLoaded)
     contentDivObserver.observe(document.querySelector("#content"), { childList: true });
 
-    
-    
-    
+    //add mapinfo
+    const mapInfoObserver = new MutationObserver(addMapInfoOnPlayerPageAfterContentIsLoaded)
+    mapInfoObserver.observe(document.querySelector("#content"), { childList: true });
+
+
     //add compare search bar
     (() => {
         const playerSearchBarString = '<form class="form-inline" action="javascript:void(0);" id="comparePlayerForm" ><div class="input-group mb-3"><input type="hidden" name="p" value="players"><input type="text" id="comparePlayerInput"  class="form-control" placeholder="Compare with player" aria-label="Compare with player" aria-describedby="basic-addon2"><div class="input-group-append"><button class="btn btn-success" type="submit">Search</button></div></div></form>'
@@ -169,7 +294,13 @@ window.onload = () => {
                 comparedPlayerTh.innerHTML = userInput + "'s time"
                 comparedPlayerTh.addEventListener("click", sortTable)
                 const tHeadRow = table.tHead.children[0]
-                tHeadRow.insertBefore(comparedPlayerTh, tHeadRow.children[tHeadRow.children.length - 2])
+
+                //this is bad:
+                const indexOfACellbeforeWhichNewCellShouldBeInserted=Array.from(tHeadRow.children).indexOf(Array.from(tHeadRow.children).find(cell=>{
+                    return cell.innerHTML=="Finishes"
+                }))
+
+                tHeadRow.insertBefore(comparedPlayerTh, tHeadRow.children[indexOfACellbeforeWhichNewCellShouldBeInserted])
 
                 //add times
                 Array.from(table.tBodies[0].children).forEach(row => {
@@ -182,7 +313,7 @@ window.onload = () => {
                     //Player hasn't finished this map
                     else cell.innerHTML=""
                     
-                    row.insertBefore(cell, row.children[row.children.length-2])
+                    row.insertBefore(cell, row.children[indexOfACellbeforeWhichNewCellShouldBeInserted])
 
                 })
                 form.querySelector("button").disabled=false
@@ -202,20 +333,3 @@ window.onload = () => {
 
 }
 
-function addEventHandlerToTableAfterContentIsLoaded(m) {
-    const tables = Array.from(document.querySelectorAll("table"))
-    tables.forEach(table=>{
-        if(!table.classList.contains("sortable")&&table.tHead){
-            const tableHeaders = Array.from(table.tHead.children[0].children)
-            tableHeaders.forEach(element => {
-                element.addEventListener("click", sortTable)
-            });
-            table.classList.add("sortable")
-        }
-    })
-    
-    
-    
-    
-    
-}
