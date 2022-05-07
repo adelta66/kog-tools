@@ -1,2 +1,5 @@
 kog-test/
-
+dist/
+distcrxperm/
+userscript/
+.gitignore

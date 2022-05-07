@@ -1,4 +1,19 @@
-function hideShowSearchBar() {
+// ==UserScript==
+// @name         Kog tools
+// @namespace    http://tampermonkey.net/
+// @version      1.0
+// @description  Small additions to kog website
+// @author       adelta
+// @match        https://kog.tw/
+// @match        https://qshar.com/
+// @icon         https://kog.tw/other/logo_black_short.svg
+// @grant        none
+// ==/UserScript==
+
+(function() {
+    'use strict';
+
+    function hideShowSearchBar() {
     const searchBarDiv = document.querySelector("#homeSearchBar")
     if (window.location.hash == "" || window.location.hash == "#p=index") {
         searchBarDiv.style.display = 'block'
@@ -14,9 +29,8 @@ function hideShowPlayerCompareBar() {
         websiteIsLoadedObserver.observe(document.querySelector("#content"), { childList: true })
     }
 }
-
 function sortTable() {
-    element=this
+    const element=this
     const table = this.closest('table')
     const tableHeaders = Array.from(table.tHead.children[0].children)
     const tBody = table.tBodies[0]
@@ -71,33 +85,11 @@ function sortTable() {
                 }
                 return b.localeCompare(a, "en", localeCompareOptions)
             }
-            
+
         }
     }
     tableRowsArray.sort(sortFunction(colIndex, asc))
     tBody.replaceChildren(...tableRowsArray)
-
-}
-async function getPlayerData(playerName) {
-    t = {
-        type: 'players',
-        player: playerName
-    }
-
-    return new Promise(e => {
-        const n = new XMLHttpRequest
-        n.open("POST", "api.php", !0),
-            n.onreadystatechange = function () {
-                if (4 === n.readyState && 200 === n.status) {
-                    const t = JSON.parse(this.responseText)
-                    e(t)
-                }
-            }
-            ,
-            n.setRequestHeader("Content-Type", "application/json;charset=UTF-8"),
-            n.send(JSON.stringify(t))
-    }
-    )
 
 }
 Number.prototype.toHHMMSS = function () {
@@ -142,7 +134,7 @@ async function getMapsData(){
             }
             maps[e.querySelector("a > div > h4").innerHTML]=mapInfo
         })
-        return maps        
+        return maps
     } catch (error) {
         console.log("fetch failed", error)
     }
@@ -197,18 +189,26 @@ function addMapInfoOnPlayerPageAfterContentIsLoaded(m){
         const finishedMapsRows = Array.from(finishedMapsTable.tBodies[0].children)
         finishedMapsRows.forEach(row=>{
             const mapName = row.children[0].children[0].innerHTML
-
-            const starString=(()=>{
-                const stars = maps[mapName].stars
-                let string=""+stars
-                    string += ' <i class="bi bi-star-fill" style="color: orange;"></i>'
+            if(maps[mapName]){
+                const starString=(()=>{
+                    const stars = maps[mapName].stars
+                    let string=""+stars
+                        string += ' <i class="bi bi-star-fill" style="color: orange;"></i>'
+                    
+                    return string
+                })()
+                addCellInRow(row, maps[mapName].category+" "+starString)
+                addCellInRow(row, maps[mapName].author)
+                addCellInRow(row, maps[mapName].points)
+                addCellInRow(row, maps[mapName].releaseDate)
+            }
+            else{
+                addCellInRow(row, "Map not found")
+                addCellInRow(row, "Map not found")
+                addCellInRow(row, "Map not found")
+                addCellInRow(row, "Map not found")
                 
-                return string
-            })()
-            addCellInRow(row, maps[mapName].category+" "+starString)
-            addCellInRow(row, maps[mapName].author)
-            addCellInRow(row, maps[mapName].points)
-            addCellInRow(row, maps[mapName].releaseDate)
+            }
         })
 
 
@@ -229,7 +229,7 @@ function addSearchbarOnHomeSubpage(){
         playerSearchBarDiv.innerHTML = playerSearchBarString
 
 
-        
+
         const form = document.querySelector("#searchFormCustom")
         form.addEventListener("submit", () => {
             const form = document.getElementById('searchFormCustom')
@@ -257,7 +257,10 @@ function addCompareSearchBarOnPlayerPage(){
         playersSearched.push(userInput)
         form.querySelector("button").disabled=true
 
-        getPlayerData(userInput).then(resp => {
+        doPostRequest({
+            type: 'players',
+            player: userInput
+        }).then(resp => {
             resp = JSON.parse(resp.data)
             const finishedMaps = resp.mapsFinished
             const table = document.querySelector("#pills-finished").children[0]
@@ -284,7 +287,7 @@ function addCompareSearchBarOnPlayerPage(){
                 if (found) cell.innerHTML=found.T.toHHMMSS()
                 //Player hasn't finished this map
                 else cell.innerHTML=""
-                
+
                 row.insertBefore(cell, row.children[indexOfACellbeforeWhichNewCellShouldBeInserted])
 
             })
@@ -319,12 +322,39 @@ window.onload = () => {
     document.querySelector('link[rel*="icon"]').href = "https://kog.tw/other/logo_black_short.svg"
     document.querySelector('link[rel*="icon"]').type = "image/svg+xml"
 
+    //add css
+    const style = document.createElement("style")
+    style.innerHTML=`.th-sort-asc:after {
+        content: "\\25b4";
+        visibility: visible;
+    }
+    
+    .th-sort-desc:after {
+        content: "\\25be";
+        visibility: visible;
+    }
+    table{
+        white-space: nowrap;
+    }
+    table thead th{
+        user-select: none;
+        width:6em;
+    }
+    table thead th:after{
+        content: "\\25be";
+        visibility: hidden;
+    }
+    table thead th:hover{
+        filter:brightness(200%);
+    }`
+    document.head.appendChild(style)
+
     //adds search bar on home subpage
     addSearchbarOnHomeSubpage()
     //add compare search bar
     addCompareSearchBarOnPlayerPage()
 
-    
+
 
     //make tables sortable
     const contentDivObserver = new MutationObserver(addEventHandlerToTableAfterContentIsLoaded)
@@ -333,11 +363,5 @@ window.onload = () => {
     //add mapinfo
     const mapInfoObserver = new MutationObserver(addMapInfoOnPlayerPageAfterContentIsLoaded)
     mapInfoObserver.observe(document.querySelector("#content"), { childList: true })
-
-
-
-
-
-
 }
-
+})();
