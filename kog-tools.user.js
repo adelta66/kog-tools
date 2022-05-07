@@ -4,8 +4,8 @@
 // @version      1.0
 // @description  Small additions to kog website
 // @author       adelta
-// @match        https://kog.tw/
-// @match        https://qshar.com/
+// @match        https://kog.tw/*
+// @match        https://qshar.com/*
 // @icon         https://kog.tw/other/logo_black_short.svg
 // @grant        none
 // ==/UserScript==
