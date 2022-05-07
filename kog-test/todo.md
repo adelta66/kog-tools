@@ -7,13 +7,12 @@
 - BUG: Zablokuj wyszukiwanie do zakończenia
 - BUG: Zablokuj wyszukanie tego samego gracza 2 razy  
 - Popraw sortowanie tabeli tak aby działało z każdą tabelą(prawie, nie działa gdy np tabela ma 4 kolumny a w pewnym momencie są tylko 3 td (colspan=2))  
+- Wyświetl trudność w tabeli unfinished
+- Wyświetl liczbe gwiazdek mapy w tabeli unfinished
+- BUG: Sortowanie zmienia rozmiar komórek  
     
 ## To do  
 - BUG: Nie działa wyszukiwania graczy z nickami tego typu: 지나간판다 jeśli nie są zcachowane  
-- Wyświetl trudność w tabeli unfinished
-- Wyświetl liczbe gwiazdek mapy w tabeli unfinished
-
 
 ## Maybe  
-- Wyświetl nazwę tabeli w tabeli finished
-- Wyświetl top time w unfinished
+- Wyświetl top time w unfinished  

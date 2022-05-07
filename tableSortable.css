@@ -1,13 +1,23 @@
-#pills-finished th{
-    user-select: none;
-}
-#pills-finished th:hover{
-    filter:brightness(200%)
-}
 .th-sort-asc:after {
     content: "\25b4";
+    visibility: visible;
 }
 
 .th-sort-desc:after {
     content: "\25be";
+    visibility: visible;
+}
+table{
+    white-space: nowrap;
+}
+table thead th{
+    user-select: none;
+    width:6em;
+}
+table thead th:after{
+    content: "\25be";
+    visibility: hidden;
+}
+table thead th:hover{
+    filter:brightness(200%);
 }
