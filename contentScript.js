@@ -268,7 +268,6 @@ function addCompareSearchBarOnPlayerPage(){
             comparedPlayerTh.addEventListener("click", sortTable)
             const tHeadRow = table.tHead.children[0]
 
-            //this is bad:
             const indexOfACellbeforeWhichNewCellShouldBeInserted=Array.from(tHeadRow.children).indexOf(Array.from(tHeadRow.children).find(cell=>{
                 return cell.innerHTML=="Finishes"
             }))
@@ -315,6 +314,10 @@ window.addEventListener("hashchange", ()=>{
 })
 
 window.onload = () => {
+
+    //Change favicon
+    document.querySelector('link[rel*="icon"]').href = "https://kog.tw/other/logo_black_short.svg"
+    document.querySelector('link[rel*="icon"]').type = "image/svg+xml"
 
     //adds search bar on home subpage
     addSearchbarOnHomeSubpage()
