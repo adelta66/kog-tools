@@ -22,6 +22,7 @@
         searchBarDiv.style.display = 'none'
     }
 }
+
 function hideShowPlayerCompareBar() {
     const playerCompareBar = document.querySelector("#comparePlayerDiv")
     playerCompareBar.style.display = 'none'
@@ -29,6 +30,7 @@ function hideShowPlayerCompareBar() {
         websiteIsLoadedObserver.observe(document.querySelector("#content"), { childList: true })
     }
 }
+
 function sortTable() {
     const element=this
     const table = this.closest('table')
@@ -62,11 +64,13 @@ function sortTable() {
 
             if(tableHeaders[colIndex].innerHTML=="Difficulty"){
                 function catToNumber(category){
-                    if(category=="Easy")    return 10
-                    if(category=="Main")    return 20
-                    if(category=="Hard")    return 30
-                    if(category=="Insane")  return 40
-                    if(category=="Mod")     return 50
+                    if(category=="Solo")    return 10
+                    else if(category=="Easy")    return 20
+                    else if(category=="Main")    return 30
+                    else if(category=="Hard")    return 40
+                    else if(category=="Insane")  return 50
+                    else if(category=="Extreme") return 60
+                    else if(category=="Mod")     return 70
                 }
                 a=catToNumber(a.split(' ')[0])+a.split(' ')[1]
                 b=catToNumber(b.split(' ')[0])+b.split(' ')[1]
@@ -181,6 +185,7 @@ function addMapInfoOnPlayerPageAfterContentIsLoaded(m){
             addCellInRow(row, maps[mapName].releaseDate)
         })
         //finished maps
+        addColToTable(finishedMapsTable, "Solo pass")
         addColToTable(finishedMapsTable, "Difficulty")
         addColToTable(finishedMapsTable, "Author")
         addColToTable(finishedMapsTable, "Points")
@@ -190,6 +195,7 @@ function addMapInfoOnPlayerPageAfterContentIsLoaded(m){
         finishedMapsRows.forEach(row=>{
             const mapName = row.children[0].children[0].innerHTML
             if(maps[mapName]){
+
                 const starString=(()=>{
                     const stars = maps[mapName].stars
                     let string=""+stars
@@ -197,6 +203,9 @@ function addMapInfoOnPlayerPageAfterContentIsLoaded(m){
                     
                     return string
                 })()
+                let checkBoxString = '<input type="checkbox" data-mapName="'+mapName+'"'
+                checkBoxString += (localStorage.getItem(mapName) != null) ? 'checked/>' : '/>'
+                addCellInRow(row,checkBoxString)
                 addCellInRow(row, maps[mapName].category+" "+starString)
                 addCellInRow(row, maps[mapName].author)
                 addCellInRow(row, maps[mapName].points)
@@ -209,6 +218,17 @@ function addMapInfoOnPlayerPageAfterContentIsLoaded(m){
                 addCellInRow(row, "Map not found")
                 
             }
+        })
+
+        //store solo passes data in localstorage
+        document.querySelectorAll('input[type="checkbox"]').forEach(e=>{
+            e.addEventListener("click",()=>{
+                if(e.checked){
+                    localStorage.setItem(e.dataset.mapname, true)
+                }else{
+                    localStorage.removeItem(e.dataset.mapname)
+                }
+            })
         })
 
 
